@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2023-11-16T14:35:44.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="nXVJF4iPTdDOGe8J60NB" version="22.0.3" type="device">
+  <diagram name="Page-1" id="D4wtFVfjafIrnCE79yRo">
+    <mxGraphModel dx="2685" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3W_NTROxU9laTtbLP2f-2" value="Full Control (f):&amp;nbsp;&lt;br&gt;Users with complete control over the site. They can manage permissions, create, edit, and delete content." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="110" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-3" value="Design (d):&lt;br&gt;Users with design-level permissions, allowing them to create and edit lists and libraries, but without full control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-4" value="Edit (e):&lt;br&gt;Users with permission to edit existing content, but without the ability to manage site settings." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-5" value="Contribute (c):&lt;br&gt; Users can add, edit, and delete items within existing lists and libraries, but can&#39;t alter site structure." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-6" value="Read (r)&lt;br&gt;Users can view items and pages but cannot edit or add new content." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-7" value="Approve (a):&lt;br&gt;Users with the ability to approve items, making them visible to others." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-8" value="Manage Hierarchy (m):&lt;br&gt;Users with permission to manage site structure, but not necessarily content." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-9" value="Restricted Read (rr):&lt;br&gt;Limited read access to specific areas or items." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-10" value="View only (v):&lt;br&gt;Users can only view content and cannot make changes." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-11" value="Records Center Web Service Submitters (rows):&lt;br&gt;Users with permissions to submit content to a Records Center via web services." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="940" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-12" value="Restricted Interfaces for Translation (rit):&lt;br&gt;Users with restricted interfaces for translation-related tasks." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-18" value="IPRS_HR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-19" value="Permission levels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-21" value="Organizational Groups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-22" value="IPRS_AL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-24" value="IPRS_PR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-25" value="IPRS_IT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-26" value="IPRS_INS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-27" value="IPRS_PAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-28" value="IPRS_ACC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-29" value="IPRS_SHP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-30" value="IPRS_WKP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-31" value="IPRS_BEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3W_NTROxU9laTtbLP2f-32" value="IPRS_EDU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
