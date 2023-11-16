@@ -1,3 +1,4 @@
+from iprs_status_codes_list import status_codes as iprs_status_codes
 
 world_divisions_and_attached_fields = {
     "ECD" : "East-Central Africa Division",
