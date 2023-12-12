@@ -1,0 +1,950 @@
+id,union_id,name
+0,ENUM,Aba North Conference
+0,ENUM,Aba South Conference
+0,ENUM,Aba West Mission
+0,ENUM,Akwa Ibom Conference
+0,ENUM,Anambra Mission
+0,ENUM,Imo Conference
+0,ENUM,Bayelsa Mission
+0,ENUM,Ebonyi Conference
+0,ENUM,Abia North-Central Conference
+0,ENUM,Enugu Conference
+0,ENUM,Aba East Conference
+0,ENUM,Eastern Nigeria Union Conference
+0,ENUM,Northern Cross River Mission
+0,ENUM,Cross River Conference
+0,ENUM,Rivers East Conference
+0,ENUM,Port Harcourt Conference
+0,ENUM,Rivers West Conference
+1,CLUM,South Austral Chile Conference
+1,CLUM,Central Chile Mission
+1,CLUM,Chile Union Mission
+1,CLUM,Metropolitan Chile Conference
+1,CLUM,North Chile Conference
+1,CLUM,Pacific Chile Mission
+1,CLUM,Central South Chile Conference
+1,CLUM,South Metropolitan Chile Mission
+2,CLUC,Atlantic Colombian Conference
+2,CLUC,Caribbean Colombian Conference
+2,CLUC,Colombian Islands Mission
+2,CLUC,North Colombian Union Conference
+2,CLUC,East Central Colombian Conference
+2,CLUC,East Colombian Conference
+2,CLUC,Northeast Colombian Conference
+2,CLUC,Southwest Colombian Mission
+2,CLUC,West Central Colombian Conference
+3,CIUS,Adilabad Region
+3,CIUS,East-Central India Union Section
+3,CIUS,Guntur Section
+3,CIUS,Hyderabad Metro Section
+3,CIUS,North Andhra Section
+3,CIUS,Northeast Andhra Section
+3,CIUS,North Orissa Region
+3,CIUS,North Rayalaseema Section
+3,CIUS,East Telangana Section
+3,CIUS,Orissa Section
+3,CIUS,South Andhra Section
+3,CIUS,Southeast Andhra Section
+3,CIUS,South Rayalaseema Section
+3,CIUS,Vishaka Metro Section
+3,CIUS,West Telangana Section
+4,CAUM,Adamaoua-Mayo Rey Conference
+4,CAUM,Benoue-Faro Mission
+4,CAUM,Cameroon Union Mission
+4,CAUM,Central-South Cameroon Conference
+4,CAUM,East Cameroon Conference
+4,CAUM,Mbam-Sanaga Conference
+4,CAUM,North Cameroon Conference
+4,CAUM,Nyong-Afamba Conference
+4,CAUM,West Cameroon Conference
+5,ADUC,Adriatic Union Conference
+5,ADUC,Albanian Mission of Seventh-day Adventists
+5,ADUC,Croatian Conference
+5,ADUC,Slovenian Conference
+6,AGUM,South-Western Angola Union Mission
+6,AGUM,Central Association Mission
+6,AGUM,South Association Mission
+7,NPUC,Alaska Conference
+7,NPUC,"Idaho Conference of Seventh-day Adventists, Inc."
+7,NPUC,Montana Conference
+7,NPUC,North Pacific Union Conference
+7,NPUC,Oregon Conference
+7,NPUC,Upper Columbia Conference
+7,NPUC,Washington Conference
+8,NEBUM,Alagoas Mission
+8,NEBUM,Central Pernambuco Conference
+8,NEBUM,Ceara Conference
+8,NEBUM,Rio Grande do Norte-Paraiba Mission
+8,NEBUM,Northeast Brazil Union Mission
+8,NEBUM,Piaui Mission
+8,NEBUM,Pernambuco Conference
+9,SCIC,Alberta Conference
+9,SCIC,British Columbia Conference
+9,SCIC,"Maritime Conference of the Seventh-day Adventist Church, Inc."
+9,SCIC,Manitoba-Saskatchewan Conference
+9,SCIC,SDA Church in Newfoundland and Labrador
+9,SCIC,Ontario Conference
+9,SCIC,Quebec Conference
+9,SCIC,"Canada, SDA Church in"
+10,COUC,Allegheny East Conference
+10,COUC,Allegheny West Conference
+10,COUC,Chesapeake Conference
+10,COUC,Columbia Union Conference
+10,COUC,Mountain View Conference
+10,COUC,"New Jersey Conference of Seventh-day Adventists, Inc."
+10,COUC,Ohio Conference
+10,COUC,Pennsylvania Conference
+10,COUC,Potomac Conference
+11,KRLA,Alappuzha-Pathanamthitta Section
+11,KRLA,Idukki Section
+11,KRLA,Southwest India Union Section
+11,KRLA,North Kerala Section
+11,KRLA,South Kerala Section
+12,IOMU,Alpine Conference
+12,IOMU,Central Veracruz Conference
+12,IOMU,Chontalpa Conference
+12,IOMU,North Veracruz Conference
+12,IOMU,Inter-Oceanic Mexican Union Conference
+12,IOMU,Isthmus Conference
+12,IOMU,Los Tuxtlas Mission
+12,IOMU,South Pacific Conference
+12,IOMU,Olmeca Conference
+12,IOMU,Oaxaca Conference
+12,IOMU,Southeast Veracruz Mexican Conference
+12,IOMU,South Veracruz Conference
+13,NCAU,Altiplano Guatemala Mission
+13,NCAU,Metropolitan Guatemala Conference
+13,NCAU,Central Guatemala Conference
+13,NCAU,East Guatemala Mission
+13,NCAU,Lago Guatemala Mission
+13,NCAU,Guatemala Union Mission
+13,NCAU,North Guatemala Mission
+13,NCAU,South Guatemala Mission
+13,NCAU,West Guatemala Conference
+14,TPACU,American Samoa Mission
+14,TPACU,Fiji Mission
+14,TPACU,Kiribati Mission
+14,TPACU,Niue Field Station
+14,TPACU,Samoa-Tokelau Mission
+14,TPACU,Solomon Islands Mission
+14,TPACU,Tonga Mission
+14,TPACU,Trans Pacific Union Mission
+14,TPACU,Tuvalu Region
+14,TPACU,Vanuatu Mission
+15,NWBR,Amazonas-Roraima Conference
+15,NWBR,Central Amazon Conference
+15,NWBR,Northwest Brazil Union Mission
+15,NWBR,South Rondonia Conference
+15,NWBR,North Rondonia and Acre Conference
+16,ATUC,Northeastern Conference
+16,ATUC,Atlantic Union Conference
+16,ATUC,Bermuda Conference
+16,ATUC,Greater New York Conference
+16,ATUC,Northern New England Conference
+16,ATUC,New York Conference
+16,ATUC,Southern New England Conference
+17,SUDAF,Andaman and Nicobar Island Region
+17,SUDAF,East Himalayan Field
+18,NOAO,Angola North-Eastern Mission
+18,NOAO,Angola South Luanda and Cabinda Mission
+18,NOAO,Angola East Mission
+18,NOAO,Angola North Mission
+18,NOAO,North-Eastern Angola Union Mission
+19,NEIUS,Arunachal Pradesh Region
+19,NEIUS,Assam Region
+19,NEIUS,Garo Section
+19,NEIUS,Khasi Jaintia Conference
+19,NEIUS,Mizo Conference
+19,NEIUS,Manipur Conference
+19,NEIUS,Northeast India Union Section
+19,NEIUS,Nagaland Region
+19,NEIUS,Tripura Region
+20,ARGU,Argentina Union Conference
+20,ARGU,Buenos Aires Conference
+20,ARGU,Central Argentine Conference
+20,ARGU,Central West Argentine Mission
+20,ARGU,North Argentine Conference
+20,ARGU,North Buenos Aires Mission
+20,ARGU,Northwest Argentine Mission
+20,ARGU,South Argentine Conference
+21,SWUC,Arkansas-Louisiana Conference
+21,SWUC,Oklahoma Conference
+21,SWUC,Southwest Region Conference
+21,SWUC,Southwestern Union Conference
+21,SWUC,Texico Conference
+21,SWUC,Texas Conference
+22,,Armenian Field
+22,,Chinese Union Mission
+22,,Crimea Mission
+22,,East-Central Africa Division
+22,,Eastern Ethiopia Union Mission
+22,,Euro-Asia Division
+22,,Inter-European Division
+22,,Don Field
+22,,Falkland Islands (Malvinas) Field Station
+22,,General Conference
+22,,Georgian Field
+22,,Middle East and North Africa Union Mission
+22,,Himalayan Section
+22,,Inter-American Division
+22,,Israel Field
+22,,Malaysia Union Mission
+22,,North American Division
+22,,Northern Asia-Pacific Division
+22,,South American Division
+22,,Southeastern Philippine Union Mission
+22,,Singapore Conference
+22,,Southern Africa-Indian Ocean Division
+22,,South Pacific Division
+22,,Sri Lanka Mission of SDA
+22,,Southern Asia-Pacific Division
+22,,Southern Asia Division
+22,,Trans-European Division
+22,,Taiwan Conference
+22,,Ukrainian Union Conference
+22,,West-Central Africa Division
+22,,Western Ethiopia Union Mission
+23,DUTC,Aruba Mission
+23,DUTC,Bonaire Mission
+23,DUTC,Dutch Caribbean Union Mission
+23,DUTC,Curacao Conference
+24,PAUC,"Arizona Conference Corporation of Seventh-day Adventists, The"
+24,PAUC,Central California Conference of Seventh-day Adventists
+24,PAUC,Hawaii Conference
+24,PAUC,Northern California Conference of Seventh-day Adventists
+24,PAUC,Nevada-Utah Conference
+24,PAUC,Pacific Union Conference
+24,PAUC,Southern California Conference
+24,PAUC,Southeastern California Conference
+25,NOGH,Ashanti Central Ghana Conference
+25,NOGH,Ashanti South Ghana Conference
+25,NOGH,Central Ghana Conference
+25,NOGH,Green View Ghana Conference
+25,NOGH,Mid-Central Ghana Conference
+25,NOGH,Mid-North Ghana Conference
+25,NOGH,Mountain View Ghana Conference
+25,NOGH,Mid-West Ghana Conference
+25,NOGH,North Ghana Mission
+25,NOGH,Northern Ghana Union Conference
+25,NOGH,South Central Ghana Conference
+26,ATCA,Atlantic Caribbean Union Mission
+26,ATCA,South Bahamas Conference
+26,ATCA,Cayman Islands Conference
+26,ATCA,North Bahamas Conference
+26,ATCA,Turks and Caicos Islands Conference
+27,MCAU,Atlantic Honduras Conference
+27,MCAU,Bay Islands Conference
+27,MCAU,Central Honduras Conference
+27,MCAU,Comayaguela Conference
+27,MCAU,Honduras Union Mission
+27,MCAU,Northwest Honduras Conference
+28,PAMA,Atlantic Panama Conference
+28,PAMA,Bocas del Toro Mission
+28,PAMA,Central Panama Conference
+28,PAMA,Metropolitan Panama Conference
+28,PAMA,Panama Union Mission
+28,PAMA,Southeast Panama Mission
+28,PAMA,West Panama Conference
+29,AUOC,Austrian Union of Churches Conference
+30,AUSU,Australian Union Conference
+30,AUSU,Greater Sydney Conference
+30,AUSU,Northern Australian Conference
+30,AUSU,North New South Wales Conference
+30,AUSU,South Australian Conference
+30,AUSU,South New South Wales Conference
+30,AUSU,South Queensland Conference
+30,AUSU,Tasmanian Conference
+30,AUSU,Victorian Conference
+30,AUSU,Western Australian Conference
+31,MYUM,Ayeyarwady Mission
+31,MYUM,Central Myanmar Mission
+31,MYUM,South East Mission
+31,MYUM,Myanmar Union Mission
+31,MYUM,Upper Myanmar Mission
+31,MYUM,Yangon Mission
+32,CMUM,Azteca Mexican Conference
+32,CMUM,Bajio Mexican Conference
+32,CMUM,Central Mexican Union Mission
+32,CMUM,Valley Mexican Conference
+32,CMUM,Metropolitan Mexican Conference
+32,CMUM,Mexiquense Mexican Mission
+33,SSAT,Greater Bahr el Ghazal Field
+33,SSAT,Eastern Upper Nile Field
+33,SSAT,North-Central Nile Field
+33,SSAT,South Sudan Union Mission
+33,SSAT,Greater Equatoria Field
+34,EABR,Bahia Conference
+34,EABR,Central Bahia Conference
+34,EABR,East Brazil Union Mission
+34,EABR,Extreme South Bahia Mission
+34,EABR,North Bahia Conference
+34,EABR,South Bahia Conference
+34,EABR,Sergipe Mission
+34,EABR,Southwest Bahia Mission
+35,RMUC,Banat Conference
+35,RMUC,Moldavia Conference
+35,RMUC,Muntenia Conference
+35,RMUC,North Transylvania Conference
+35,RMUC,Oltenia Conference
+35,RMUC,Romanian Union Conference
+35,RMUC,South Transylvania Conference
+36,BAUC,Baltic Union Conference
+36,BAUC,Estonian Conference
+36,BAUC,Lithuanian Conference
+36,BAUC,Latvian Conference
+37,BAUM,Bangladesh Union Mission
+37,BAUM,East Bangladesh Mission
+37,BAUM,North Bangladesh Mission
+37,BAUM,South Bangladesh Mission
+37,BAUM,West Bangladesh Mission
+38,SGUC,Bavarian Conference
+38,SGUC,Baden-Wuerttemberg Conference
+38,SGUC,Central Rhenish Conference
+38,SGUC,South German Union Conference
+39,NMUC,Baja California Conference
+39,NMUC,Gulf Mexican Conference
+39,NMUC,Northeast Mexican Conference
+39,NMUC,North Mexican Union Conference
+39,NMUC,Chihuahua Mexican Conference
+39,NMUC,Northwest Mexican Mission
+39,NMUC,North Tamaulipas Mexican Conference
+39,NMUC,Sonora Mexican Conference
+39,NMUC,Regiomontana Mission
+39,NMUC,South Baja California Mission
+39,NMUC,Sinaloa Mexican Conference
+39,NMUC,West Mexican Conference
+40,BELC,Belarus Union of Churches Conference
+41,BELM,Belize Union Mission
+41,BELM,Central Belize Mission
+41,BELM,North Belize Mission
+41,BELM,South West Belize Mission
+42,SAUM,Benin Conference
+42,SAUM,Burkina Faso Mission
+42,SAUM,Southeast Cote d'Ivoire Conference
+42,SAUM,North-central Cote d'Ivoire Mission
+42,SAUM,Niger Region
+42,SAUM,Eastern Sahel Union Mission
+42,SAUM,Southwest Cote d'Ivoire Mission
+42,SAUM,Togo Conference
+43,NIUS,Bihar Region
+43,NIUS,Western Jharkhand Section
+43,NIUS,Chhattisgarh Region
+43,NIUS,Central Uttar Pradesh Region
+43,NIUS,Delhi Metro Region
+43,NIUS,Eastern Jharkhand Section
+43,NIUS,Eastern Uttar Pradesh Section
+43,NIUS,Himachal Pradesh Region
+43,NIUS,Haryana Region
+43,NIUS,Kolkata Metro Region
+43,NIUS,Madhya Pradesh Region
+43,NIUS,Rajasthan Section
+43,NIUS,North India Section
+43,NIUS,Northern India Union Section
+43,NIUS,South Bengal Section
+43,NIUS,Upper Ganges Section
+43,NIUS,Uttarakhand Region
+43,NIUS,North Bengal Section
+44,BLUM,Bolivia Union Mission
+44,BLUM,Central Bolivia Mission
+44,BLUM,East Bolivia Mission
+44,BLUM,South Western Bolivia Mission
+44,BLUM,North Western Bolivia Mission
+45,FBUC,Belgian-Luxembourg Conference
+45,FBUC,Franco-Belgian Union Conference
+45,FBUC,North France Conference
+45,FBUC,South France Conference
+46,EIUC,Bolaang Mongondow and Gorontalo Mission
+46,EIUC,Central Sulawesi Mission
+46,EIUC,East Indonesia Union Conference
+46,EIUC,Papua Mission
+46,EIUC,Luwu Tana Toraja Mission
+46,EIUC,Maluku Mission
+46,EIUC,North Minahasa Bitung Mission
+46,EIUC,Manado and North Maluku Conference
+46,EIUC,Minahasa Conference
+46,EIUC,South Sulawesi Conference
+46,EIUC,Northern Island Mission
+46,EIUC,West Papua Mission
+47,KRNG,Bangalore Metro Conference
+47,KRNG,Kolar-Chinthamani Region
+47,KRNG,Goa-West Karnataka Section
+47,KRNG,South-Central India Union Section
+47,KRNG,North Karnataka Section
+47,KRNG,Raichur-Bellary Region
+47,KRNG,South Karnataka Section
+48,CSUC,Bohemian Conference
+48,CSUC,Czecho-Slovakian Union Conference
+48,CSUC,Moravia-Silesian Conference
+48,CSUC,Slovakian Conference
+49,BOTU,Botswana Union Conference
+49,BOTU,North Botswana Conference
+49,BOTU,South Botswana Conference
+50,PNGUM,Bougainville Mission
+50,PNGUM,Central Papua Conference
+50,PNGUM,Eastern Highlands Simbu Mission
+50,PNGUM,Madang Manus Mission
+50,PNGUM,Morobe Mission
+50,PNGUM,New Britain New Ireland Mission
+50,PNGUM,Northern and Milne Bay Mission
+50,PNGUM,Papua New Guinea Union Mission
+50,PNGUM,Sepik Mission
+50,PNGUM,South West Papua Mission
+50,PNGUM,Western Highlands Mission
+51,BRUC,British Union Conference
+51,BRUC,Irish Mission
+51,BRUC,North England Conference
+51,BRUC,Scottish Mission
+51,BRUC,South England Conference
+51,BRUC,Welsh Mission
+52,BUKC,Bukovinskaya Conference
+53,BUOC,Bulgarian Union of Churches Conference
+54,BURM,Burundi Union Mission
+54,BURM,East Burundi Field
+54,BURM,North Burundi Field
+54,BURM,North-West Burundi Field
+54,BURM,South-West Burundi Field
+55,SCAU,Caribbean Costa Rica Mission
+55,SCAU,South-Central Costa Rica Conference
+55,SCAU,Central Nicaragua Mission
+55,SCAU,North Costa Rica Conference
+55,SCAU,Northwestern Nicaragua Mission
+55,SCAU,South Atlantic Nicaragua Mission
+55,SCAU,South Central American Union Mission
+56,SEMU,Campeche Conference
+56,SEMU,East Tabasco Mission
+56,SEMU,South Tabasco Conference
+56,SEMU,Mayab Conference
+56,SEMU,North Quintana Roo Conference
+56,SEMU,South Quintana Roo Mission
+56,SEMU,Southeast Mexican Union Mission
+56,SEMU,Central Tabasco Conference
+57,CEAF,Congo Mission
+57,CEAF,Central African Republic Mission
+57,CEAF,Central African Union Mission
+57,CEAF,Chad Mission
+57,CEAF,Equatorial Guinea Mission
+57,CEAF,Gabon Mission
+58,SPEU,Central Peru Mission
+58,SPEU,Central South Peru Mission
+58,SPEU,East Peru Mission
+58,SPEU,Lake Titicaca Peru Mission
+58,SPEU,Central Peru Conference
+58,SPEU,Southeast Peru Mission
+58,SPEU,South Peru Union Mission
+58,SPEU,South Peru Mission
+59,VAUM,Central Andean Venezuela Mission
+59,VAUM,East Andean Venezuela Mission
+59,VAUM,West Los Llanos Venezuela Conference
+59,VAUM,North Central Venezuela Conference
+59,VAUM,Northwestern Venezuela Mission
+59,VAUM,Portuguese Venezuela Mission
+59,VAUM,Southwest Venezuela Conference
+59,VAUM,West Venezuela Union Mission
+59,VAUM,West Central Venezuela Conference
+59,VAUM,West Venezuela Conference
+59,VAUM,Yaracuy Venezuela Mission
+60,SAUC,Cape Conference
+60,SAUC,KwaZulu Natal-Free State Conference
+60,SAUC,Lesotho Conference
+60,SAUC,Namibia South Conference
+60,SAUC,Namibia North Conference
+60,SAUC,Southern Africa Union Conference
+60,SAUC,Eswatini Conference
+60,SAUC,Trans-Orange Conference
+60,SAUC,Northern Conference
+61,CAUU,Caucasus Union Mission
+61,CAUU,Kubano-Chernomorskaya Conference
+61,CAUU,North Caucasus Mission
+61,CAUU,Rostov-Kalmykia Conference
+62,NPUM,Cavite Mission
+62,NPUM,Central Luzon Conference
+62,NPUM,Mountain Provinces Mission
+62,NPUM,Northeast Luzon Mission
+62,NPUM,Northern Luzon Mission
+62,NPUM,North Philippine Union Conference
+62,NPUM,Palawan Mission
+62,NPUM,South-Central Luzon Conference
+62,NPUM,Southern Luzon Mission
+63,WCBU,Central Brazil Conference
+63,WCBU,Central Planalto Conference
+63,WCBU,East Mato Grosso Conference
+63,WCBU,South Mato Grosso Conference
+63,WCBU,Tocantins Mission
+63,WCBU,West Central Brazil Union Mission
+63,WCBU,West Mato Grosso Mission
+64,CBUC,Central Brazil Union Conference
+64,CBUC,Central Sao Paulo Conference
+64,CBUC,East Sao Paulo Conference
+64,CBUC,Southeast Sao Paulo Conference
+64,CBUC,Sao Paulo Conference
+64,CBUC,Sao Paulo Valley Conference
+64,CBUC,South Sao Paulo Conference
+64,CBUC,Southwest Sao Paulo Conference
+64,CBUC,West Sao Paulo Conference
+65,SMUC,Central Chiapas Conference
+65,SMUC,Grijalva Conference
+65,SMUC,North Chiapas Conference
+65,SMUC,Palenque Mission
+65,SMUC,South Chiapas Conference
+65,SMUC,Soconusco Conference
+65,SMUC,Chiapas Mexican Union Conference
+65,SMUC,Upper Chiapas Conference
+65,SMUC,West Chiapas Conference
+66,DMUM,Central Dominican Conference
+66,DMUM,Dominican Union Conference
+66,DMUM,East Dominican Conference
+66,DMUM,North Dominican Conference
+66,DMUM,Northeast Dominican Conference
+66,DMUM,South Dominican Conference
+66,DMUM,Southeast Dominican Conference
+67,SOCO,Central Colombian Conference
+67,SOCO,East Los Llanos Conference
+67,SOCO,Northwestern Bogota and Boyaca Mission
+67,SOCO,Pacific Colombian Conference
+67,SOCO,South Bogota Conference
+67,SOCO,South Colombian Conference
+67,SOCO,South Andean Mission
+67,SOCO,South Colombian Union Conference
+67,SOCO,South Pacific Mission
+67,SOCO,Upper Magdalena Conference
+68,WAUM,Central Liberia Mission
+68,WAUM,Guinea Region
+68,WAUM,South-East Liberia Mission
+68,WAUM,Sierra Leone Conference
+68,WAUM,South-West Liberia Conference
+68,WAUM,West African Union Mission
+69,ELSA,Central El Salvador Conference
+69,ELSA,East El Salvador Conference
+69,ELSA,El Salvador Union Mission
+69,ELSA,Metropolitan El Salvador Conference
+69,ELSA,Paracentral El Salvador Conference
+69,ELSA,West El Salvador Conference
+70,ENET,Central Ethiopia Field
+70,ENET,Northwest Ethiopia Field
+70,ENET,South Central Ethiopia Field
+70,ENET,South East Ethiopia Field
+70,ENET,South Ethiopia Field
+70,ENET,South Green Ethiopia Field
+70,ENET,South Shewa Ethiopia Field
+70,ENET,North Ethiopia Field
+71,STAU,Central Tanzania Field
+71,STAU,East-Central Tanzania Conference
+71,STAU,Lake Tanganyika Field
+71,STAU,South-East Tanzania Conference
+71,STAU,Southern Tanzania Union Mission
+71,STAU,Southern Highlands Conference
+72,EVAU,Central East Venezuela Conference
+72,EVAU,Central Llanos Venezuela Mission
+72,EVAU,Central Venezuela Conference
+72,EVAU,East Venezuela Union Mission
+72,EVAU,East Venezuela Conference
+72,EVAU,Northeast Venezuela Mission
+72,EVAU,South Central Venezuela Conference
+72,EVAU,Southeast Venezuela Conference
+72,EVAU,South Bolivar Venezuela Mission
+73,WCUM,Congo Equatorial Field
+73,WCUM,Central Kasai Field
+73,WCUM,Lower Congo Field
+73,WCUM,West Congo Field
+73,WCUM,West Congo Union Mission
+73,WCUM,West Kasai Field
+74,NGUC,Berlin-Central German Conference
+74,NGUC,Hanseatic Conference
+74,NGUC,North German Union Conference
+74,NGUC,Northern Rhenish-Westfalian Conference
+75,HAUM,Central Haiti Conference
+75,HAUM,Haitian Union Mission
+75,HAUM,North Haiti Mission
+75,HAUM,Northwest Haiti Mission
+75,HAUM,Plaine du cul de Sac Mission
+75,HAUM,South Haiti Mission
+76,CHIN,China
+77,SIUS,Kanchipuram-Chengalpattu Section
+77,SIUS,Chennai Metro Section
+77,SIUS,Coimbatore Tirupur Section
+77,SIUS,Dharmapuri Section
+77,SIUS,Erode Nilgiris Section
+77,SIUS,North Tamil Conference
+77,SIUS,Pudukottai-Thirumayam Region
+77,SIUS,Sivagangai Ramanathapuram Section
+77,SIUS,Southeast India Union Section
+77,SIUS,South Tamil Conference
+77,SIUS,Thanjavur-Karaikal Section
+77,SIUS,Theni-Periyakulam Region
+77,SIUS,Vellore Section
+77,SIUS,Villupuram-Tindivanam Region
+78,NZPU,Cook Islands Mission
+78,NZPU,French Polynesia Mission
+78,NZPU,New Caledonia Mission
+78,NZPU,North New Zealand Conference
+78,NZPU,New Zealand Pacific Union Conference
+78,NZPU,Pitcairn Field Station
+78,NZPU,South New Zealand Conference
+79,WIUM,Central Java Mission
+79,WIUM,Central Sumatra Mission
+79,WIUM,East Java Conference
+79,WIUM,East Kalimantan Mission
+79,WIUM,Jakarta Conference
+79,WIUM,North Sumatra Mission
+79,WIUM,Nusa Tenggara Mission
+79,WIUM,South Sumatra Mission
+79,WIUM,West Indonesia Union Mission
+79,WIUM,West Java Conference
+79,WIUM,West Kalimantan Region
+80,WIUC,Central Jamaica Conference
+80,WIUC,East Jamaica Conference
+80,WIUC,North East Jamaica Conference
+80,WIUC,North Jamaica Conference
+80,WIUC,Jamaica Union Conference
+80,WIUC,West Jamaica Conference
+81,NECO,Central Kivu Field
+81,NECO,Kibali Ituri Mission
+81,NECO,Maniema Mission
+81,NECO,North East Congo Union Mission
+81,NECO,North Kivu Field
+81,NECO,South Kivu Field
+81,NECO,Upper Congo Field
+82,EAKU,Central Kenya Conference
+82,EAKU,Central Rift Valley Conference
+82,EAKU,East Kenya Union Conference
+82,EAKU,East Nairobi Field
+82,EAKU,Kenya Coast Field
+82,EAKU,North East Kenya Field
+82,EAKU,Nyamira Conference
+82,EAKU,Nyamira West Field
+82,EAKU,South-East Kenya Field
+82,EAKU,South Kenya Conference
+82,EAKU,South Nairobi Kajiado Field
+82,EAKU,South Rift Valley Field
+83,SEAUM,Cambodia Mission
+83,SEAUM,Laos Region
+83,SEAUM,Southeastern Asia Union Mission
+83,SEAUM,Thailand Mission
+83,SEAUM,Vietnam Mission
+84,SPUC,Central Mindanao Mission
+84,SPUC,North Central Mindanao Conference
+84,SPUC,Southwestern Philippine Union Conference
+84,SPUC,Zamboanga Peninsula Mission
+84,SPUC,Western Mindanao Conference
+85,IOUM,Central Malagasy Conference
+85,IOUM,East Malagasy Conference
+85,IOUM,Indian Ocean Union Conference
+85,IOUM,Mayotte Field Station
+85,IOUM,Mauritius Conference
+85,IOUM,North Malagasy Conference
+85,IOUM,North West Malagasy Conference
+85,IOUM,Reunion Conference
+85,IOUM,Seychelles Mission
+85,IOUM,South East Malagasy Conference
+85,IOUM,South West Malagasy Conference
+86,MWUM,Central Malawi Conference
+86,MWUM,Malawi Union Conference
+86,MWUM,North Malawi Conference
+86,MWUM,South Malawi Conference
+87,EBUC,Central Minas Conference
+87,EBUC,Southeast Brazil Union Conference
+87,EBUC,East Minas Conference
+87,EBUC,Espirito Santo Conference
+87,EBUC,North Minas Mission
+87,EBUC,Rio de Janeiro Conference
+87,EBUC,Rio Fluminense Conference
+87,EBUC,South Minas Conference
+87,EBUC,South Espirito Santo Conference
+87,EBUC,South Rio Conference
+87,EBUC,West Minas Mission
+88,MZUM,Central Mission
+88,MZUM,Mozambique Union Mission
+88,MZUM,North-East Mission
+88,MZUM,North Mission
+88,MZUM,South Mission
+89,WKEU,Central Nyanza Conference
+89,WKEU,Kenya Lake Conference
+89,WKEU,Lake Victoria Field
+89,WKEU,North Rift Valley Field
+89,WKEU,Western Kenya Conference
+89,WKEU,Ranen Conference
+89,WKEU,South East Nyanza Field
+89,WKEU,Southern Kenya Lake Field
+89,WKEU,South West Nyanza Field
+89,WKEU,West Kenya Union Conference
+89,WKEU,Greater Rift Valley Conference
+89,WKEU,West Rift Valley Field
+90,SBUC,Central Parana Conference
+90,SBUC,Central Rio Grande do Sul Conference
+90,SBUC,North Santa Catarina Conference
+90,SBUC,North Parana Conference
+90,SBUC,Rio Grande do Sul Conference
+90,SBUC,South Brazil Union Conference
+90,SBUC,Santa Catarina Conference
+90,SBUC,South Parana Conference
+90,SBUC,West Parana Conference
+90,SBUC,North Rio Grande do Sul Conference
+91,CPUC,Central Philippine Union Conference
+91,CPUC,Central Visayan Conference
+91,CPUC,East Visayan Conference
+91,CPUC,Negros Occidental Conference
+91,CPUC,Negros Oriental-Siquijor Mission
+91,CPUC,Romblon Mission
+91,CPUC,Samar Mission
+91,CPUC,West Visayan Conference
+92,NSUC,Carolina Conference
+92,NSUC,Florida Conference
+92,NSUC,Georgia-Cumberland Conference
+92,NSUC,Gulf States Conference
+92,NSUC,Kentucky-Tennessee Conference
+92,NSUC,Southern Union Conference
+92,NSUC,South Atlantic Conference
+92,NSUC,South Central Conference
+92,NSUC,Southeastern Conference
+93,CRUC,Caribbean Union Conference
+93,CRUC,East Caribbean Conference
+93,CRUC,Grenada Conference
+93,CRUC,Guyana Conference
+93,CRUC,North Caribbean Conference
+93,CRUC,South Caribbean Conference
+93,CRUC,South Leeward Conference
+93,CRUC,St. Lucia Mission
+93,CRUC,St. Vincent and the Grenadines Mission
+93,CRUC,Suriname Mission
+93,CRUC,Tobago Conference
+94,RWUM,Central Rwanda Field
+94,RWUM,East Central Rwanda Field
+94,RWUM,North-East Rwanda Field
+94,RWUM,North Rwanda Field
+94,RWUM,North-West Rwanda Field
+94,RWUM,Rwanda Union Mission
+94,RWUM,South-East Rwanda Field
+94,RWUM,South Rwanda Field
+94,RWUM,West Rwanda Field
+95,ERUM,Central Siberian Mission
+95,ERUM,East Russian Union Mission
+95,ERUM,East Siberian Mission
+95,ERUM,West Siberian Mission
+96,MAUC,Central States Conference
+96,MAUC,Dakota Conference
+96,MAUC,Iowa-Missouri Conference
+96,MAUC,Kansas-Nebraska Conference
+96,MAUC,Mid-America Union Conference
+96,MAUC,Minnesota Conference
+96,MAUC,Rocky Mountain Conference
+97,CUUC,Central Conference
+97,CUUC,East Conference
+97,CUUC,Cuban Union Conference
+97,CUUC,West Conference
+97,CUUC,Del Amanecer Conference
+97,CUUC,Pinarena Mission
+97,CUUC,Villa Perla Mission
+98,UGUM,Central Uganda Conference
+98,UGUM,Eastern Uganda Field
+98,UGUM,North Buganda Field
+98,UGUM,Northern Uganda Field
+98,UGUM,Rwenzori Field
+98,UGUM,Southwestern Uganda Field
+98,UGUM,Uganda Union Mission
+98,UGUM,West Buganda Field
+98,UGUM,Western Uganda Field
+99,CUKC,Central Ukrainian Conference
+100,WESA,Cabo Verde Conference
+100,WESA,Gambia Region
+100,WESA,Guinea-Bissau Mission
+100,WESA,Mali Mission
+100,WESA,Senegal/Mauritania Mission
+100,WESA,Western Sahel Union Mission
+101,TEDAF,Cyprus Region
+101,TEDAF,Greek Mission
+101,TEDAF,Iceland Conference
+102,NZAM,Midlands East Zambia Conference
+102,NZAM,Copperbelt Zambia Conference
+102,NZAM,Luapula Zambia Conference
+102,NZAM,Midlands West Zambia Conference
+102,NZAM,Northwest Zambia Conference
+102,NZAM,North Zambia Field
+102,NZAM,Northern Zambia Union Conference
+103,ZIMC,Central Zimbabwe Conference
+103,ZIMC,North-West Zimbabwe Conference
+103,ZIMC,Zimbabwe Central Union Conference
+103,ZIMC,Zimbabwe West Union Conference
+104,SEPH,Davao Mission
+104,SEPH,Northeastern Mindanao Mission
+104,SEPH,Northern Davao Mission
+104,SEPH,Southern Mindanao Mission
+105,NGUM,Delta Conference
+105,NGUM,Edo Conference
+105,NGUM,Ekiti Conference
+105,NGUM,Kogi Region
+105,NGUM,Kwara Conference
+105,NGUM,Lagos Atlantic Conference
+105,NGUM,Lagos Mainland Conference
+105,NGUM,Western Nigeria Union Conference
+105,NGUM,Ogun Conference
+105,NGUM,Osun Conference
+105,NGUM,Ondo Mission
+105,NGUM,Oyo Conference
+106,GHUC,Diamond Field Ghana Conference
+106,GHUC,East Ghana Conference
+106,GHUC,Eastern View Ghana Conference
+106,GHUC,Southern Ghana Union Conference
+106,GHUC,Meridian Ghana Conference
+106,GHUC,Mid-South Ghana Conference
+106,GHUC,Pioneer Ghana Conference
+106,GHUC,Accra City Conference
+106,GHUC,South West Ghana Conference
+106,GHUC,Oti Ghana Mission
+106,GHUC,Volta Ghana Mission
+106,GHUC,West-Central Ghana Conference
+106,GHUC,Western North Ghana Conference
+107,DNPC,Dnieper Conference
+108,HUNC,Duna Conference
+108,HUNC,Hungarian Union Conference
+108,HUNC,Tisza Conference
+109,DUOC,Danish Union of Churches Conference
+110,ECDU,Ecuador Union Mission
+110,ECDU,North Ecuador Mission
+110,ECDU,South Ecuador Mission
+111,KRUC,East Central Korean Conference
+111,KRUC,Jeju Mission
+111,KRUC,Korean Union Conference
+111,KRUC,Middlewest Korean Conference
+111,KRUC,North Korean Mission
+111,KRUC,Southeast Korean Conference
+111,KRUC,Southwest Korean Conference
+111,KRUC,West Central Korean Conference
+112,ECUM,East Congo Union Mission
+112,ECUM,East Katanga Mission
+112,ECUM,East Kasai Field
+112,ECUM,North Katanga Field
+112,ECUM,South Katanga Field
+112,ECUM,West Katanga Field
+113,EDNC,Eastern Dnieper Conference
+114,EGYF,Egypt-Sudan Field
+115,JPUC,East Japan Conference
+115,JPUC,Japan Union Conference
+115,JPUC,Okinawa Mission
+115,JPUC,West Japan Conference
+116,EMDF,East Mediterranean Region
+117,NRUC,East Norway Conference
+117,NRUC,North Norway Conference
+117,NRUC,Norwegian Union Conference
+117,NRUC,West Norway Conference
+118,POUC,East Polish Conference
+118,POUC,Polish Union Conference
+118,POUC,South Polish Conference
+118,POUC,West Polish Conference
+119,PRUC,East Puerto Rico Conference
+119,PRUC,North Puerto Rico Conference
+119,PRUC,Puerto Rican Union Conference
+119,PRUC,South Puerto Rico Conference
+119,PRUC,West Puerto Rico Conference
+120,ECDAF,Eritrea Mission Field
+121,ESDB,Euro-Asia Division (Branch)
+122,ESUC,Southern Union Mission
+122,ESUC,Kyrgyzstan Mission
+122,ESUC,Kazakhstan Mission
+122,ESUC,Tajikistan Field
+122,ESUC,Turkmenistan Field
+122,ESUC,Uzbekistan Field
+123,SSDAF,Timor-Leste Mission
+124,SZAM,East Zambia Field
+124,SZAM,Lusaka Conference
+124,SZAM,Mosi O Tunya Conference
+124,SZAM,Rusangu Conference
+124,SZAM,Southern Zambia Union Conference
+124,SZAM,Woodlands Conference
+124,SZAM,West Zambia Conference
+125,ZAUM,East Zimbabwe Conference
+126,FAGUM,French Antilles-Guiana Union Conference
+126,FAGUM,French Guiana Mission
+126,FAGUM,Guadeloupe Conference
+126,FAGUM,Martinique Conference
+127,FEC,Far Eastern Union of Churches Mission
+128,SWSC,French-Italian Swiss Conference
+128,SWSC,German Swiss Conference
+128,SWSC,Swiss Union Conference
+129,FNUC,Finland Union of Churches Conference
+130,WNET,Gambella Field Station
+130,WNET,Kellem Ethiopia Field
+130,WNET,South West Ethiopia Field
+130,WNET,West Central Ethiopia Field
+130,WNET,West Ethiopia Conference
+131,WIND,Gujarat Conference
+131,WIND,Central Maharashtra Conference
+131,WIND,Mumbai Metro Section
+131,WIND,North Maharashtra Section
+131,WIND,Saurashtra Region
+131,WIND,South Maharashtra Section
+131,WIND,South Gujarat Region
+131,WIND,Vidarbha Region (Nagpur)
+131,WIND,Western India Union Section
+132,GUMM,Guam-Micronesia Mission
+133,GUSS,Gulf Field
+134,HKMC,Hong Kong-Macao Conference
+135,LKUC,Illinois Conference
+135,LKUC,Indiana Conference
+135,LKUC,Lake Region Conference
+135,LKUC,Lake Union Conference
+135,LKUC,Michigan Conference
+135,LKUC,Wisconsin Conference
+136,IUOC,Italian Union of Churches Conference
+137,KIEV,Kyiv Conference
+138,NBUM,North Para Conference
+138,NBUM,Maranhao Conference
+138,NBUM,North Brazil Union Mission
+138,NBUM,Northeast Maranhao Mission
+138,NBUM,Para-Amapa Mission
+138,NBUM,South Maranhao Conference
+138,NBUM,South Para Conference
+138,NBUM,West Para Mission
+139,SEEUC,Macedonian Mission
+139,SEEUC,North Conference
+139,SEEUC,South Conference
+139,SEEUC,Bosnia and Herzegovina Conference
+139,SEEUC,South-East European Union Conference
+140,MAGS,North Africa Region
+141,NTAU,Mara Conference
+141,NTAU,North-East Tanzania Conference
+141,NTAU,Northern Tanzania Union Conference
+141,NTAU,Nyanza Gold Belt Field
+141,NTAU,South Nyanza Conference
+141,NTAU,Tanzania Rift Valley Field
+141,NTAU,Western Tanzania Conference
+142,NSDAF,Mongolia Mission
+143,MOUC,Moldova Union of Churches Conference
+144,WRUC,Moscow Conference
+144,WRUC,Northwestern Conference
+144,WRUC,Ural Conference
+144,WRUC,Volga Conference
+144,WRUC,Volgo-Vyatskaya Conference
+144,WRUC,Central Conference
+144,WRUC,Southern Conference
+144,WRUC,West Russian Union Conference
+145,NONI,North Central Nigeria Conference
+145,NONI,North East Nigeria Conference
+145,NONI,Northern Nigeria Union Conference
+145,NONI,North West Nigeria Conference
+146,NPEU,East Central Peru Conference
+146,NPEU,Northeast Peru Mission
+146,NPEU,North Pacific Conference
+146,NPEU,North Peru Union Mission
+146,NPEU,North Peru Mission
+146,NPEU,West Central Peru Mission
+147,NEUC,Netherlands Union of Churches Conference
+148,ZIME,North Zimbabwe Conference
+148,ZIME,Zimbabwe East Union Conference
+149,PARU,Paraguay Union of Churches Mission
+150,PKUS,Northern Section
+150,PKUS,Southern Section
+150,PKUS,Pakistan Union Section
+151,MALU,Peninsular Malaysia Mission
+151,MALU,Sabah Mission
+151,MALU,Sarawak Mission
+152,PODC,Podolsk Conference
+153,PUOC,Portuguese Union of Churches Conference
+154,SIDAF,Sao Tome and Principe Mission
+155,SUKC,Southern Ukrainian Conference
+156,SUOC,Spanish Union of Churches Conference
+157,SWDC,Swedish Union of Churches Conference
+158,ZIMW,South Zimbabwe Conference
+158,ZIMW,West Zimbabwe Conference
+159,TRKS,West Asia Field
+160,URUU,Uruguay Union of Churches Mission
+161,WUKC,Western Ukrainian Conference

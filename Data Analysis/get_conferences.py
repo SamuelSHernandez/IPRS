@@ -1,93 +1,95 @@
 import csv
 import json
-from collections import defaultdict
 import requests
+from collections import defaultdict
+import logging as log
+from DATA import api_url
 
-def group_entries_by_union_id(entries):
-    grouped_data = defaultdict(list)
+CSV_FILE_PATH = "conference.csv"
+FIELDNAMES = ['id', 'union_id', 'name']
 
-    for entry in entries:
-        union_id = entry.get("UnionID")
-        grouped_data[union_id].append(entry)
-
-    return grouped_data
-
-def map_div_to_id():
-    div_map = {
-        0: ("East-Central Africa Division", "ECD"),
-        1: ("Euroasia Division", "ESD"),
-        2: ("Intereuropean Division", "EUD"),
-        3: ("Interamerican Division", "IAD"),
-        4: ("North American Division", "NAD"),
-        5: ("Northern Asia Pacific Division", "NSD"),
-        6: ("South American Division", "SAD"),
-        7: ("South Pacific Division", "SPD"),
-        8: ("Southern African Indian Ocean Division", "SID"),
-        9: ("Southern Asia Division", "SUD"),
-        10: ("Southern Asia Pacific Division", "SSD"),
-        11: ("Transeuropean Division", "TED"),
-        12: ("West Central Africa Division", "WAD"),
-        13: ("Chinese Union Mission", "CHUM"),
-        14: ("Middle East North African Union Mission", "MENAUM"),
-    }
-    return div_map
 
 def fetch_data_from_api(api_url):
+    """
+    Fetches data from the specified API URL.
+
+    Args:
+        api_url (str): URL of the API.
+
+    Returns:
+        dict: Fetched JSON data.
+    """
     try:
         response = requests.get(api_url)
+        response.raise_for_status()
+        return response.json()
 
-        if response.status_code == 200:
-            data = response.json()
-            return data
-        else:
-            print(f"Error fetching data from API: {response.status_code} - {response.text}")
-            return None
-
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+    except requests.RequestException as e:
+        log.error(f"Error fetching data from API: {e}")
         return None
 
-def export_to_csv(data, csv_file_path):
-    div_map = map_div_to_id()
+def group_by_id(entries, id_key):
+    """
+    Groups entries by the specified ID key.
 
-    with open(csv_file_path, 'w', newline='') as csvfile:
-        fieldnames = ['ID', 'Name', 'UnionID', 'DivID']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    Args:
+        entries (list): List of entries to be grouped.
+        id_key (str): Key to be used for grouping.
 
-        writer.writeheader()
-        for union_id, entries in data.items():
-            for entry in entries:
-                div_id = entry.get('DivID', '')
-                div_name, div_code = div_map.get(div_id, ("", ""))
-                
-                writer.writerow({
-                    'ID': entry.get('EntityID', ''),
-                    'Name': entry.get('Name', ''),
-                    'UnionID': entry.get('UnionID', ''),
-                    'DivID': div_code,
-                })
+    Returns:
+        defaultdict: Grouped data.
+    """
+    grouped_data = defaultdict(list)
+    for entry in entries:
+        identifier = entry.get(id_key)
+        grouped_data[identifier].append(entry)
+    log.debug(f"Grouped data by {id_key} successfully.")
+    return grouped_data
 
-def main(api_url, csv_file_path):
+def get_conferences(api_url, csv_file_path):
+    """
+    Main function to fetch data from the API, group it, and export to CSV.
+
+    Args:
+        api_url (str): URL of the API.
+        csv_file_path (str): Path to the CSV file.
+    """
     try:
         data = fetch_data_from_api(api_url)
-
         if data:
-            grouped_by_union_id = group_entries_by_union_id(data)
-            export_to_csv(grouped_by_union_id, csv_file_path)
-            print(f"CSV file '{csv_file_path}' created successfully.")
+            union_id_group = group_by_id(data, "UnionID")
+            export_to_csv(union_id_group, csv_file_path)
+            log.info(f"CSV file '{csv_file_path}' created successfully.")
         else:
-            print("No data fetched from the API.")
-
+            log.info("No data fetched from the API.")
+    except requests.RequestException as e:
+        log.exception(f"Error fetching data from API: {e}")
     except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
+        log.exception(f"Error decoding JSON: {e}")
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+        log.exception(f"An unexpected error occurred: {e}")
+
+def export_to_csv(data, csv_file_path):
+    """
+    Exports grouped data to a CSV file.
+
+    Args:
+        data (defaultdict): Grouped data.
+        csv_file_path (str): Path to the CSV file.
+    """
+    with open(csv_file_path, 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        for _id, (identifier, entries) in enumerate(data.items()):
+            for entry in entries:
+                entry['ID'] = _id
+                writer.writerow({
+                    'id': entry.get('CustomID', ''),
+                    'name': entry.get('Name', ''),
+                    'union_id': entry.get('UnionID', ''),
+                })
+
 
 if __name__ == "__main__":
-    # Replace 'your_api_endpoint' with the actual API endpoint
-    api_url = "https://orgmast.adventist.org/OrgMastAPI/api/OMAdmfield?$filter=Active%20eq%20true"
-    
-    # Replace 'output.csv' with the desired CSV file path
-    csv_file_path = "conference.csv"
-
-    main(api_url, csv_file_path)
+    log.basicConfig(level=log.INFO)
+    get_conferences(api_url, CSV_FILE_PATH)

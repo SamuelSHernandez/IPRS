@@ -121,8 +121,8 @@ id,division_id,name
 119,10,South Philippine Section
 120,10,Southeastern Asia Union
 121,10,West Indonesia Union
-122,10, Sri Lanka Mission
-123,10, Timor Leste Mission
+122,10,Sri Lanka Mission
+123,10,Timor Leste Mission
 124,10,Singapore Conference
 125,11,Adriatic Union
 126,11,Blatic Union
@@ -147,7 +147,7 @@ id,division_id,name
 145,12,West African Union
 146,12,West Nigeria Union
 147,12,Western Sahel Union
-148,13, Hong Kong-Macao
+148,13,Hong Kong-Macao
 149,14,Egypt-Sudan Field
 150,14,East Mediterranean Region
 151,14,Gulf Field
