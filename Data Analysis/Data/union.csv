@@ -1,0 +1,155 @@
+id,division_id,name
+0,0,Burundi Union Mission
+1,0,East Kenia Union Conference
+2,0,East Congo Union Mission
+3,0,Eastern Ethiopian Union Mission
+4,0,North East Congo Union Mission
+5,0,Northern Tanzania Union Mission
+6,0,Rwanda Union Mission
+7,0,Suthern Tanzania Union Mission
+8,0,Uganda Union Mission
+9,0,West Congo Union Mission
+10,0,West Kenya Union Conference
+11,0,Western Ethiopia Union Mission
+12,0,South Sudan Attached Territory
+13,0,Eritea Mission Field
+14,1,Belarus Union of Churches
+15,1,Caucasus Union Mission
+16,1,East Russian Union Mission
+17,1,Far Eastern Union of Chruches Mission
+18,1,Moldova Union of Churches Conference
+19,1,Southern Union Mission
+20,1,West Russian Union Mission
+21,1,Armenian Field
+22,1,Crimea Field
+23,1,Don Field
+24,1,Georgian Field
+25,2,Austrian Union
+26,2,Bulgarian Union
+27,2,Czecho-SLovak Union
+28,2,Franco-Belgian Union
+29,2,Italian Union
+30,2,North German Union
+31,2,Portuguese Union
+32,2,Romanian Union
+33,2,South German Union
+34,2,Spanish Union
+35,2,Swiss Union
+36,3,Atlantic Caribbean Union
+37,3,Belize Union
+38,3,Caribbean Union
+39,3,Central Mexican Union
+40,3,Chiapas Mexican Union
+41,3,Cuban Union
+42,3,Dominican Union
+43,3,Dutch Caribbean Union
+44,3,East Venezuela Union
+45,3,El Salvador Union
+46,3,French-Antilles-Guiana Union
+47,3,Guatemala Union
+48,3,Haitian Union
+49,3,Honduras Union
+50,3,Jamaica Union
+51,3,Interoceanic Mexican Union
+52,3,North Colombian Union
+53,3,North Mexican Union
+54,3,Panama Union
+55,3,Puerto Rican Union
+56,3,South Columbian Union
+57,3,Southeast Mexican Union
+58,3,West Venezuela Union
+59,4,Altantic Union
+60,4,Canadian Union
+61,4,Columbia Union
+62,4,Lake Union
+63,4,Mid-America Union
+64,4,North Pacific Union
+65,4,Southern Union
+66,4,Southwestern Union
+67,5,Korean Union
+68,5,Taiwan Conference
+69,5,Mongolia Mission
+70,5,Japan Union
+71,6,Argentina Union
+72,6,Bolivia Union
+73,6,Central Brazil Union
+74,6,Chile Union
+75,6,Ecuador Union
+76,6,East Brazil Union
+77,6,North Brazil Union
+78,6,Northeast Brazil Union
+79,6,Northwest Brazil Union
+80,6,Paraguay Union
+81,6,South Brazil Union
+82,6,South Peru Union
+83,6,Southeast BRazil Union
+84,6,Uruguay Union
+85,6,West Central Brazil Union
+86,7,Australian Union
+87,7,New Zealand Union
+88,7,Papua New Guinea Union
+89,7,Trans Pacific Union
+90,8,Botswana Union
+91,8,Indian Ocean Union
+92,8,Malawi Union
+93,8,Mozambique Union
+94,8,North-Eastern Angola Union
+95,8,Northern Zambia Union
+96,8,Southern Africa Union
+97,8,Southern Zambia Union
+98,8,South-Western Angola Union
+99,8,Zimbabwe Central Union
+100,8,Zimbabwe East Union
+101,8,Zimbabwe Western Union
+102,8,Sao Tome and Principe Union
+103,9,East-Central India Section
+104,9,Northeast India Section
+105,9,Northern India Section
+106,9,South-Central India Section
+107,9,Southeast India Section
+108,9,Southwest India Section
+109,9,Western India Section
+110,9,Andaman and Nicobar Island Region
+111,9,East Himalayan Field
+112,10,Bangladesh Union
+113,10,Central Philippines Union
+114,10,East Indonesia Union
+115,10,Malasya Union
+116,10,Myanmar Union
+117,10,North Philippine Union
+118,10,Pakistan Union Section
+119,10,South Philippine Section
+120,10,Southeastern Asia Union
+121,10,West Indonesia Union
+122,10, Sri Lanka Mission
+123,10, Timor Leste Mission
+124,10,Singapore Conference
+125,11,Adriatic Union
+126,11,Blatic Union
+127,11,British Union
+128,11,Danish Union
+129,11,Finland Union
+130,11,Hungarian Union
+131,11,Netherlands Union
+132,11,Norwegian Union
+133,11,Polish Union
+134,11,South-East European Union
+135,11,Swedish Union
+136,11,Cyprus Union
+137,11,Greek Mission
+138,11,Iceland Union
+139,12,Cameroon Union
+140,12,Central African Union
+141,12,Eastern Nigeria Union
+142,12,Eastern Sahel Union
+143,12,Northern Nigeria Union
+144,12,Southern Ghana Union
+145,12,West African Union
+146,12,West Nigeria Union
+147,12,Western Sahel Union
+148,13, Hong Kong-Macao
+149,14,Egypt-Sudan Field
+150,14,East Mediterranean Region
+151,14,Gulf Field
+152,14,North Africa Region
+153,14,West Asia Field

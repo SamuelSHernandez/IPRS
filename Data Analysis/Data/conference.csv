@@ -1,0 +1,950 @@
+ID,Name,UnionID,DivID
+52311,Aba North Conference,ENUM,West Central Africa Division
+52312,Aba South Conference,ENUM,West Central Africa Division
+54697,Aba West Mission,ENUM,West Central Africa Division
+53058,Akwa Ibom Conference,ENUM,West Central Africa Division
+53060,Anambra Mission,ENUM,West Central Africa Division
+29902,Imo Conference,ENUM,West Central Africa Division
+53061,Bayelsa Mission,ENUM,West Central Africa Division
+53059,Ebonyi Conference,ENUM,West Central Africa Division
+13497,Abia North-Central Conference,ENUM,West Central Africa Division
+52313,Enugu Conference,ENUM,West Central Africa Division
+13498,Aba East Conference,ENUM,West Central Africa Division
+30232,Eastern Nigeria Union Conference,ENUM,West Central Africa Division
+54698,Northern Cross River Mission,ENUM,West Central Africa Division
+13503,Cross River Conference,ENUM,West Central Africa Division
+53062,Rivers East Conference,ENUM,West Central Africa Division
+13502,Port Harcourt Conference,ENUM,West Central Africa Division
+52314,Rivers West Conference,ENUM,West Central Africa Division
+20904,South Austral Chile Conference,CLUM,South American Division
+10560,Central Chile Mission,CLUM,South American Division
+10547,Chile Union Mission,CLUM,South American Division
+10563,Metropolitan Chile Conference,CLUM,South American Division
+10561,North Chile Conference,CLUM,South American Division
+10562,Pacific Chile Mission,CLUM,South American Division
+10565,Central South Chile Conference,CLUM,South American Division
+51815,South Metropolitan Chile Mission,CLUM,South American Division
+14032,Atlantic Colombian Conference,CLUC,Interamerican Division
+30945,Caribbean Colombian Conference,CLUC,Interamerican Division
+14033,Colombian Islands Mission,CLUC,Interamerican Division
+14037,North Colombian Union Conference,CLUC,Interamerican Division
+53728,East Central Colombian Conference,CLUC,Interamerican Division
+14034,East Colombian Conference,CLUC,Interamerican Division
+31774,Northeast Colombian Conference,CLUC,Interamerican Division
+53911,Southwest Colombian Mission,CLUC,Interamerican Division
+14039,West Central Colombian Conference,CLUC,Interamerican Division
+52468,Adilabad Region,CIUS,Southern Asia Division
+13188,East-Central India Union Section,CIUS,Southern Asia Division
+31794,Guntur Section,CIUS,Southern Asia Division
+20215,Hyderabad Metro Section,CIUS,Southern Asia Division
+13202,North Andhra Section,CIUS,Southern Asia Division
+13207,Northeast Andhra Section,CIUS,Southern Asia Division
+29825,North Orissa Region,CIUS,Southern Asia Division
+29826,North Rayalaseema Section,CIUS,Southern Asia Division
+29827,East Telangana Section,CIUS,Southern Asia Division
+13203,Orissa Section,CIUS,Southern Asia Division
+13206,South Andhra Section,CIUS,Southern Asia Division
+20218,Southeast Andhra Section,CIUS,Southern Asia Division
+13208,South Rayalaseema Section,CIUS,Southern Asia Division
+30980,Vishaka Metro Section,CIUS,Southern Asia Division
+13209,West Telangana Section,CIUS,Southern Asia Division
+54695,Adamaoua-Mayo Rey Conference,CAUM,West Central Africa Division
+54696,Benoue-Faro Mission,CAUM,West Central Africa Division
+10156,Cameroon Union Mission,CAUM,West Central Africa Division
+10158,Central-South Cameroon Conference,CAUM,West Central Africa Division
+13440,East Cameroon Conference,CAUM,West Central Africa Division
+143957,Mbam-Sanaga Conference,CAUM,West Central Africa Division
+13443,North Cameroon Conference,CAUM,West Central Africa Division
+143958,Nyong-Afamba Conference,CAUM,West Central Africa Division
+13445,West Cameroon Conference,CAUM,West Central Africa Division
+13048,Adriatic Union Conference,ADUC,Transeuropean Division
+13049,Albanian Mission of Seventh-day Adventists,ADUC,Transeuropean Division
+13050,Croatian Conference,ADUC,Transeuropean Division
+13051,Slovenian Conference,ADUC,Transeuropean Division
+13754,South-Western Angola Union Mission,AGUM,Southern African Indian Ocean Division
+13758,Central Association Mission,AGUM,Southern African Indian Ocean Division
+13761,South Association Mission,AGUM,Southern African Indian Ocean Division
+17569,Alaska Conference,NPUC,North American Division
+17619,"Idaho Conference of Seventh-day Adventists, Inc.",NPUC,North American Division
+17684,Montana Conference,NPUC,North American Division
+17552,North Pacific Union Conference,NPUC,North American Division
+17748,Oregon Conference,NPUC,North American Division
+17933,Upper Columbia Conference,NPUC,North American Division
+18092,Washington Conference,NPUC,North American Division
+33610,Alagoas Mission,NEBUM,South American Division
+31888,Central Pernambuco Conference,NEBUM,South American Division
+10651,Ceara Conference,NEBUM,South American Division
+10653,Rio Grande do Norte-Paraiba Mission,NEBUM,South American Division
+10264,Northeast Brazil Union Mission,NEBUM,South American Division
+53655,Piaui Mission,NEBUM,South American Division
+10654,Pernambuco Conference,NEBUM,South American Division
+14846,Alberta Conference,SCIC,North American Division
+14930,British Columbia Conference,SCIC,North American Division
+15090,"Maritime Conference of the Seventh-day Adventist Church, Inc.",SCIC,North American Division
+15039,Manitoba-Saskatchewan Conference,SCIC,North American Division
+15274,SDA Church in Newfoundland and Labrador,SCIC,North American Division
+15131,Ontario Conference,SCIC,North American Division
+15244,Quebec Conference,SCIC,North American Division
+14799,"Canada, SDA Church in",SCIC,North American Division
+15317,Allegheny East Conference,COUC,North American Division
+15428,Allegheny West Conference,COUC,North American Division
+15487,Chesapeake Conference,COUC,North American Division
+15298,Columbia Union Conference,COUC,North American Division
+15568,Mountain View Conference,COUC,North American Division
+15628,"New Jersey Conference of Seventh-day Adventists, Inc.",COUC,North American Division
+15724,Ohio Conference,COUC,North American Division
+15857,Pennsylvania Conference,COUC,North American Division
+16003,Potomac Conference,COUC,North American Division
+29893,Alappuzha-Pathanamthitta Section,KRLA,Southern Asia Division
+29894,Idukki Section,KRLA,Southern Asia Division
+20213,Southwest India Union Section,KRLA,Southern Asia Division
+12907,North Kerala Section,KRLA,Southern Asia Division
+12911,South Kerala Section,KRLA,Southern Asia Division
+52729,Alpine Conference,IOMU,Interamerican Division
+52730,Central Veracruz Conference,IOMU,Interamerican Division
+53412,Chontalpa Conference,IOMU,Interamerican Division
+14114,North Veracruz Conference,IOMU,Interamerican Division
+20200,Inter-Oceanic Mexican Union Conference,IOMU,Interamerican Division
+31722,Isthmus Conference,IOMU,Interamerican Division
+53413,Los Tuxtlas Mission,IOMU,Interamerican Division
+14118,South Pacific Conference,IOMU,Interamerican Division
+20203,Olmeca Conference,IOMU,Interamerican Division
+14117,Oaxaca Conference,IOMU,Interamerican Division
+32488,Southeast Veracruz Mexican Conference,IOMU,Interamerican Division
+14121,South Veracruz Conference,IOMU,Interamerican Division
+53724,Altiplano Guatemala Mission,NCAU,Interamerican Division
+14009,Metropolitan Guatemala Conference,NCAU,Interamerican Division
+30370,Central Guatemala Conference,NCAU,Interamerican Division
+14005,East Guatemala Mission,NCAU,Interamerican Division
+53725,Lago Guatemala Mission,NCAU,Interamerican Division
+21214,Guatemala Union Mission,NCAU,Interamerican Division
+31025,North Guatemala Mission,NCAU,Interamerican Division
+30371,South Guatemala Mission,NCAU,Interamerican Division
+14013,West Guatemala Conference,NCAU,Interamerican Division
+53819,American Samoa Mission,TPACU,South Pacific Division
+13287,Fiji Mission,TPACU,South Pacific Division
+13366,Kiribati Mission,TPACU,South Pacific Division
+30404,Niue Field Station,TPACU,South Pacific Division
+13290,Samoa-Tokelau Mission,TPACU,South Pacific Division
+31579,Solomon Islands Mission,TPACU,South Pacific Division
+13291,Tonga Mission,TPACU,South Pacific Division
+20199,Trans Pacific Union Mission,TPACU,South Pacific Division
+13292,Tuvalu Region,TPACU,South Pacific Division
+13368,Vanuatu Mission,TPACU,South Pacific Division
+30987,Amazonas-Roraima Conference,NWBR,South American Division
+10647,Central Amazon Conference,NWBR,South American Division
+32157,Northwest Brazil Union Mission,NWBR,South American Division
+31887,South Rondonia Conference,NWBR,South American Division
+10645,North Rondonia and Acre Conference,NWBR,South American Division
+14448,Northeastern Conference,ATUC,North American Division
+14212,Atlantic Union Conference,ATUC,North American Division
+14231,Bermuda Conference,ATUC,North American Division
+14245,Greater New York Conference,ATUC,North American Division
+14596,Northern New England Conference,ATUC,North American Division
+14366,New York Conference,ATUC,North American Division
+14678,Southern New England Conference,ATUC,North American Division
+12923,Andaman and Nicobar Island Region,SUDAF,Southern Asia Division
+32617,East Himalayan Field,SUDAF,Southern Asia Division
+54392,Angola North-Eastern Mission,NOAO,Southern African Indian Ocean Division
+54393,Angola South Luanda and Cabinda Mission,NOAO,Southern African Indian Ocean Division
+13759,Angola East Mission,NOAO,Southern African Indian Ocean Division
+13760,Angola North Mission,NOAO,Southern African Indian Ocean Division
+32666,North-Eastern Angola Union Mission,NOAO,Southern African Indian Ocean Division
+13212,Arunachal Pradesh Region,NEIUS,Southern Asia Division
+13213,Assam Region,NEIUS,Southern Asia Division
+13214,Garo Section,NEIUS,Southern Asia Division
+13216,Khasi Jaintia Conference,NEIUS,Southern Asia Division
+13217,Mizo Conference,NEIUS,Southern Asia Division
+13218,Manipur Conference,NEIUS,Southern Asia Division
+13211,Northeast India Union Section,NEIUS,Southern Asia Division
+13219,Nagaland Region,NEIUS,Southern Asia Division
+55080,Tripura Region,NEIUS,Southern Asia Division
+32186,Argentina Union Conference,ARGU,South American Division
+10502,Buenos Aires Conference,ARGU,South American Division
+10506,Central Argentine Conference,ARGU,South American Division
+52430,Central West Argentine Mission,ARGU,South American Division
+10507,North Argentine Conference,ARGU,South American Division
+54417,North Buenos Aires Mission,ARGU,South American Division
+10508,Northwest Argentine Mission,ARGU,South American Division
+10514,South Argentine Conference,ARGU,South American Division
+11578,Arkansas-Louisiana Conference,SWUC,North American Division
+11199,Oklahoma Conference,SWUC,North American Division
+11285,Southwest Region Conference,SWUC,North American Division
+11550,Southwestern Union Conference,SWUC,North American Division
+11101,Texico Conference,SWUC,North American Division
+11371,Texas Conference,SWUC,North American Division
+20741,Armenian Field,,Euroasia Division
+10387,Chinese Union Mission,,Chinese Union Mission
+53007,Crimea Mission,,Euroasia Division
+20731,East-Central Africa Division,,East-Central Africa Division
+54861,Eastern Ethiopia Union Mission,,East-Central Africa Division
+10042,Euro-Asia Division,,Euroasia Division
+13733,Inter-European Division,,Intereuropean Division
+10066,Don Field,,Euroasia Division
+54366,Falkland Islands (Malvinas) Field Station,,South American Division
+10010,General Conference,,
+20749,Georgian Field,,Euroasia Division
+32980,Middle East and North Africa Union Mission,,
+12924,Himalayan Section,,Northern Asia Pacific Division
+13902,Inter-American Division,,Interamerican Division
+12887,Israel Field,,
+154443,Malaysia Union Mission,,Southern Asia Pacific Division
+14197,North American Division,,North American Division
+10344,Northern Asia-Pacific Division,,Northern Asia Pacific Division
+10455,South American Division,,South American Division
+179258,Southeastern Philippine Union Mission,,Southern Asia Pacific Division
+13094,Singapore Conference,,Southern Asia Pacific Division
+20742,Southern Africa-Indian Ocean Division,,Southern African Indian Ocean Division
+13276,South Pacific Division,,South Pacific Division
+13152,Sri Lanka Mission of SDA,,Northern Asia Pacific Division
+13370,Southern Asia-Pacific Division,,Southern Asia Pacific Division
+13153,Southern Asia Division,,Southern Asia Division
+13018,Trans-European Division,,Transeuropean Division
+10395,Taiwan Conference,,Northern Asia Pacific Division
+10062,Ukrainian Union Conference,,
+20743,West-Central Africa Division,,West Central Africa Division
+54862,Western Ethiopia Union Mission,,East-Central Africa Division
+31348,Aruba Mission,DUTC,Interamerican Division
+54042,Bonaire Mission,DUTC,Interamerican Division
+53071,Dutch Caribbean Union Mission,DUTC,Interamerican Division
+14131,Curacao Conference,DUTC,Interamerican Division
+18243,"Arizona Conference Corporation of Seventh-day Adventists, The",PAUC,North American Division
+18332,Central California Conference of Seventh-day Adventists,PAUC,North American Division
+18488,Hawaii Conference,PAUC,North American Division
+18584,Northern California Conference of Seventh-day Adventists,PAUC,North American Division
+18525,Nevada-Utah Conference,PAUC,North American Division
+18227,Pacific Union Conference,PAUC,North American Division
+18976,Southern California Conference,PAUC,North American Division
+18803,Southeastern California Conference,PAUC,North American Division
+53029,Ashanti Central Ghana Conference,NOGH,West Central Africa Division
+53030,Ashanti South Ghana Conference,NOGH,West Central Africa Division
+13529,Central Ghana Conference,NOGH,West Central Africa Division
+53031,Green View Ghana Conference,NOGH,West Central Africa Division
+53033,Mid-Central Ghana Conference,NOGH,West Central Africa Division
+53032,Mid-North Ghana Conference,NOGH,West Central Africa Division
+53034,Mountain View Ghana Conference,NOGH,West Central Africa Division
+13531,Mid-West Ghana Conference,NOGH,West Central Africa Division
+13532,North Ghana Mission,NOGH,West Central Africa Division
+52483,Northern Ghana Union Conference,NOGH,West Central Africa Division
+13533,South Central Ghana Conference,NOGH,West Central Africa Division
+32461,Atlantic Caribbean Union Mission,ATCA,Interamerican Division
+14149,South Bahamas Conference,ATCA,Interamerican Division
+14151,Cayman Islands Conference,ATCA,Interamerican Division
+21365,North Bahamas Conference,ATCA,Interamerican Division
+14164,Turks and Caicos Islands Conference,ATCA,Interamerican Division
+32108,Atlantic Honduras Conference,MCAU,Interamerican Division
+14008,Bay Islands Conference,MCAU,Interamerican Division
+20919,Central Honduras Conference,MCAU,Interamerican Division
+53726,Comayaguela Conference,MCAU,Interamerican Division
+21215,Honduras Union Mission,MCAU,Interamerican Division
+20920,Northwest Honduras Conference,MCAU,Interamerican Division
+52794,Atlantic Panama Conference,PAMA,Interamerican Division
+53912,Bocas del Toro Mission,PAMA,Interamerican Division
+31357,Central Panama Conference,PAMA,Interamerican Division
+14006,Metropolitan Panama Conference,PAMA,Interamerican Division
+52942,Panama Union Mission,PAMA,Interamerican Division
+52910,Southeast Panama Mission,PAMA,Interamerican Division
+14012,West Panama Conference,PAMA,Interamerican Division
+13766,Austrian Union of Churches Conference,AUOC,Intereuropean Division
+20197,Australian Union Conference,AUSU,South Pacific Division
+13351,Greater Sydney Conference,AUSU,South Pacific Division
+13363,Northern Australian Conference,AUSU,South Pacific Division
+13352,North New South Wales Conference,AUSU,South Pacific Division
+13327,South Australian Conference,AUSU,South Pacific Division
+13330,South New South Wales Conference,AUSU,South Pacific Division
+13356,South Queensland Conference,AUSU,South Pacific Division
+13328,Tasmanian Conference,AUSU,South Pacific Division
+13329,Victorian Conference,AUSU,South Pacific Division
+13331,Western Australian Conference,AUSU,South Pacific Division
+13413,Ayeyarwady Mission,MYUM,Southern Asia Pacific Division
+13414,Central Myanmar Mission,MYUM,Southern Asia Pacific Division
+13415,South East Mission,MYUM,Southern Asia Pacific Division
+13406,Myanmar Union Mission,MYUM,Southern Asia Pacific Division
+13416,Upper Myanmar Mission,MYUM,Southern Asia Pacific Division
+13417,Yangon Mission,MYUM,Southern Asia Pacific Division
+30946,Azteca Mexican Conference,CMUM,Interamerican Division
+30372,Bajio Mexican Conference,CMUM,Interamerican Division
+31719,Central Mexican Union Mission,CMUM,Interamerican Division
+14103,Valley Mexican Conference,CMUM,Interamerican Division
+20202,Metropolitan Mexican Conference,CMUM,Interamerican Division
+53720,Mexiquense Mexican Mission,CMUM,Interamerican Division
+42600,Greater Bahr el Ghazal Field,SSAT,East-Central Africa Division
+143096,Eastern Upper Nile Field,SSAT,East-Central Africa Division
+42560,North-Central Nile Field,SSAT,East-Central Africa Division
+53303,South Sudan Union Mission,SSAT,East-Central Africa Division
+12861,Greater Equatoria Field,SSAT,East-Central Africa Division
+10265,Bahia Conference,EABR,South American Division
+30154,Central Bahia Conference,EABR,South American Division
+52116,East Brazil Union Mission,EABR,South American Division
+157129,Extreme South Bahia Mission,EABR,South American Division
+52788,North Bahia Conference,EABR,South American Division
+10267,South Bahia Conference,EABR,South American Division
+10266,Sergipe Mission,EABR,South American Division
+32159,Southwest Bahia Mission,EABR,South American Division
+13828,Banat Conference,RMUC,Intereuropean Division
+13829,Moldavia Conference,RMUC,Intereuropean Division
+13832,Muntenia Conference,RMUC,Intereuropean Division
+13830,North Transylvania Conference,RMUC,Intereuropean Division
+13831,Oltenia Conference,RMUC,Intereuropean Division
+13827,Romanian Union Conference,RMUC,Intereuropean Division
+13833,South Transylvania Conference,RMUC,Intereuropean Division
+13060,Baltic Union Conference,BAUC,Transeuropean Division
+13061,Estonian Conference,BAUC,Transeuropean Division
+13063,Lithuanian Conference,BAUC,Transeuropean Division
+13062,Latvian Conference,BAUC,Transeuropean Division
+13385,Bangladesh Union Mission,BAUM,Northern Asia Pacific Division
+13376,East Bangladesh Mission,BAUM,Northern Asia Pacific Division
+13377,North Bangladesh Mission,BAUM,Northern Asia Pacific Division
+13378,South Bangladesh Mission,BAUM,Northern Asia Pacific Division
+13379,West Bangladesh Mission,BAUM,Northern Asia Pacific Division
+32228,Bavarian Conference,SGUC,Intereuropean Division
+13840,Baden-Wuerttemberg Conference,SGUC,Intereuropean Division
+13841,Central Rhenish Conference,SGUC,Intereuropean Division
+13836,South German Union Conference,SGUC,Intereuropean Division
+14102,Baja California Conference,NMUC,Interamerican Division
+14104,Gulf Mexican Conference,NMUC,Interamerican Division
+14106,Northeast Mexican Conference,NMUC,Interamerican Division
+14101,North Mexican Union Conference,NMUC,Interamerican Division
+14105,Chihuahua Mexican Conference,NMUC,Interamerican Division
+53727,Northwest Mexican Mission,NMUC,Interamerican Division
+32137,North Tamaulipas Mexican Conference,NMUC,Interamerican Division
+14107,Sonora Mexican Conference,NMUC,Interamerican Division
+54046,Regiomontana Mission,NMUC,Interamerican Division
+54717,South Baja California Mission,NMUC,Interamerican Division
+21362,Sinaloa Mexican Conference,NMUC,Interamerican Division
+14108,West Mexican Conference,NMUC,Interamerican Division
+10080,Belarus Union of Churches Conference,BELC,Euroasia Division
+13997,Belize Union Mission,BELM,Interamerican Division
+54983,Central Belize Mission,BELM,Interamerican Division
+54984,North Belize Mission,BELM,Interamerican Division
+54985,South West Belize Mission,BELM,Interamerican Division
+13547,Benin Conference,SAUM,West Central Africa Division
+13559,Burkina Faso Mission,SAUM,West Central Africa Division
+13554,Southeast Cote d'Ivoire Conference,SAUM,West Central Africa Division
+156786,North-central Cote d'Ivoire Mission,SAUM,West Central Africa Division
+13551,Niger Region,SAUM,West Central Africa Division
+13539,Eastern Sahel Union Mission,SAUM,West Central Africa Division
+156787,Southwest Cote d'Ivoire Mission,SAUM,West Central Africa Division
+13553,Togo Conference,SAUM,West Central Africa Division
+32118,Bihar Region,NIUS,Southern Asia Division
+13237,Western Jharkhand Section,NIUS,Southern Asia Division
+20216,Chhattisgarh Region,NIUS,Southern Asia Division
+54647,Central Uttar Pradesh Region,NIUS,Southern Asia Division
+29891,Delhi Metro Region,NIUS,Southern Asia Division
+20217,Eastern Jharkhand Section,NIUS,Southern Asia Division
+13238,Eastern Uttar Pradesh Section,NIUS,Southern Asia Division
+51781,Himachal Pradesh Region,NIUS,Southern Asia Division
+13239,Haryana Region,NIUS,Southern Asia Division
+54648,Kolkata Metro Region,NIUS,Southern Asia Division
+54223,Madhya Pradesh Region,NIUS,Southern Asia Division
+13240,Rajasthan Section,NIUS,Southern Asia Division
+13241,North India Section,NIUS,Southern Asia Division
+13227,Northern India Union Section,NIUS,Southern Asia Division
+13242,South Bengal Section,NIUS,Southern Asia Division
+13243,Upper Ganges Section,NIUS,Southern Asia Division
+54408,Uttarakhand Region,NIUS,Southern Asia Division
+13244,North Bengal Section,NIUS,Southern Asia Division
+10570,Bolivia Union Mission,BLUM,South American Division
+22025,Central Bolivia Mission,BLUM,South American Division
+10572,East Bolivia Mission,BLUM,South American Division
+156895,South Western Bolivia Mission,BLUM,South American Division
+10573,North Western Bolivia Mission,BLUM,South American Division
+13785,Belgian-Luxembourg Conference,FBUC,Intereuropean Division
+13779,Franco-Belgian Union Conference,FBUC,Intereuropean Division
+13786,North France Conference,FBUC,Intereuropean Division
+13788,South France Conference,FBUC,Intereuropean Division
+30247,Bolaang Mongondow and Gorontalo Mission,EIUC,Southern Asia Pacific Division
+13409,Central Sulawesi Mission,EIUC,Southern Asia Pacific Division
+13408,East Indonesia Union Conference,EIUC,Southern Asia Pacific Division
+13410,Papua Mission,EIUC,Southern Asia Pacific Division
+53186,Luwu Tana Toraja Mission,EIUC,Southern Asia Pacific Division
+13398,Maluku Mission,EIUC,Southern Asia Pacific Division
+53909,North Minahasa Bitung Mission,EIUC,Southern Asia Pacific Division
+13400,Manado and North Maluku Conference,EIUC,Southern Asia Pacific Division
+13412,Minahasa Conference,EIUC,Southern Asia Pacific Division
+13411,South Sulawesi Conference,EIUC,Southern Asia Pacific Division
+13401,Northern Island Mission,EIUC,Southern Asia Pacific Division
+52489,West Papua Mission,EIUC,Southern Asia Pacific Division
+20219,Bangalore Metro Conference,KRNG,Southern Asia Division
+20220,Kolar-Chinthamani Region,KRNG,Southern Asia Division
+12905,Goa-West Karnataka Section,KRNG,Southern Asia Division
+20212,South-Central India Union Section,KRNG,Southern Asia Division
+12906,North Karnataka Section,KRNG,Southern Asia Division
+30062,Raichur-Bellary Region,KRNG,Southern Asia Division
+12902,South Karnataka Section,KRNG,Southern Asia Division
+13775,Bohemian Conference,CSUC,Intereuropean Division
+13774,Czecho-Slovakian Union Conference,CSUC,Intereuropean Division
+13776,Moravia-Silesian Conference,CSUC,Intereuropean Division
+13777,Slovakian Conference,CSUC,Intereuropean Division
+29889,Botswana Union Conference,BOTU,Southern African Indian Ocean Division
+13708,North Botswana Conference,BOTU,Southern African Indian Ocean Division
+13709,South Botswana Conference,BOTU,Southern African Indian Ocean Division
+13302,Bougainville Mission,PNGUM,South Pacific Division
+13300,Central Papua Conference,PNGUM,South Pacific Division
+13301,Eastern Highlands Simbu Mission,PNGUM,South Pacific Division
+13303,Madang Manus Mission,PNGUM,South Pacific Division
+13304,Morobe Mission,PNGUM,South Pacific Division
+13307,New Britain New Ireland Mission,PNGUM,South Pacific Division
+13306,Northern and Milne Bay Mission,PNGUM,South Pacific Division
+13305,Papua New Guinea Union Mission,PNGUM,South Pacific Division
+13308,Sepik Mission,PNGUM,South Pacific Division
+13309,South West Papua Mission,PNGUM,South Pacific Division
+13310,Western Highlands Mission,PNGUM,South Pacific Division
+13031,British Union Conference,BRUC,Transeuropean Division
+13034,Irish Mission,BRUC,Transeuropean Division
+13035,North England Conference,BRUC,Transeuropean Division
+13036,Scottish Mission,BRUC,Transeuropean Division
+13037,South England Conference,BRUC,Transeuropean Division
+13038,Welsh Mission,BRUC,Transeuropean Division
+10063,Bukovinskaya Conference,BUKC,
+13790,Bulgarian Union of Churches Conference,BUOC,Intereuropean Division
+13597,Burundi Union Mission,BURM,East-Central Africa Division
+22105,East Burundi Field,BURM,East-Central Africa Division
+22106,North Burundi Field,BURM,East-Central Africa Division
+54402,North-West Burundi Field,BURM,East-Central Africa Division
+54403,South-West Burundi Field,BURM,East-Central Africa Division
+30072,Caribbean Costa Rica Mission,SCAU,Interamerican Division
+13998,South-Central Costa Rica Conference,SCAU,Interamerican Division
+14007,Central Nicaragua Mission,SCAU,Interamerican Division
+30073,North Costa Rica Conference,SCAU,Interamerican Division
+32975,Northwestern Nicaragua Mission,SCAU,Interamerican Division
+52909,South Atlantic Nicaragua Mission,SCAU,Interamerican Division
+21216,South Central American Union Mission,SCAU,Interamerican Division
+32466,Campeche Conference,SEMU,Interamerican Division
+53266,East Tabasco Mission,SEMU,Interamerican Division
+32055,South Tabasco Conference,SEMU,Interamerican Division
+14115,Mayab Conference,SEMU,Interamerican Division
+52793,North Quintana Roo Conference,SEMU,Interamerican Division
+30947,South Quintana Roo Mission,SEMU,Interamerican Division
+51728,Southeast Mexican Union Mission,SEMU,Interamerican Division
+14122,Central Tabasco Conference,SEMU,Interamerican Division
+13444,Congo Mission,CEAF,West Central Africa Division
+10157,Central African Republic Mission,CEAF,West Central Africa Division
+52482,Central African Union Mission,CEAF,West Central Africa Division
+13439,Chad Mission,CEAF,West Central Africa Division
+13441,Equatorial Guinea Mission,CEAF,West Central Africa Division
+13442,Gabon Mission,CEAF,West Central Africa Division
+10276,Central Peru Mission,SPEU,South American Division
+53954,Central South Peru Mission,SPEU,South American Division
+10278,East Peru Mission,SPEU,South American Division
+10279,Lake Titicaca Peru Mission,SPEU,South American Division
+10282,Central Peru Conference,SPEU,South American Division
+32160,Southeast Peru Mission,SPEU,South American Division
+30990,South Peru Union Mission,SPEU,South American Division
+10283,South Peru Mission,SPEU,South American Division
+53264,Central Andean Venezuela Mission,VAUM,Interamerican Division
+54057,East Andean Venezuela Mission,VAUM,Interamerican Division
+31724,West Los Llanos Venezuela Conference,VAUM,Interamerican Division
+30074,North Central Venezuela Conference,VAUM,Interamerican Division
+53265,Northwestern Venezuela Mission,VAUM,Interamerican Division
+54513,Portuguese Venezuela Mission,VAUM,Interamerican Division
+21364,Southwest Venezuela Conference,VAUM,Interamerican Division
+14133,West Venezuela Union Mission,VAUM,Interamerican Division
+14135,West Central Venezuela Conference,VAUM,Interamerican Division
+14134,West Venezuela Conference,VAUM,Interamerican Division
+53263,Yaracuy Venezuela Mission,VAUM,Interamerican Division
+12958,Cape Conference,SAUC,Southern African Indian Ocean Division
+12965,KwaZulu Natal-Free State Conference,SAUC,Southern African Indian Ocean Division
+12960,Lesotho Conference,SAUC,Southern African Indian Ocean Division
+12961,Namibia South Conference,SAUC,Southern African Indian Ocean Division
+53638,Namibia North Conference,SAUC,Southern African Indian Ocean Division
+12959,Southern Africa Union Conference,SAUC,Southern African Indian Ocean Division
+12964,Eswatini Conference,SAUC,Southern African Indian Ocean Division
+12963,Trans-Orange Conference,SAUC,Southern African Indian Ocean Division
+12972,Northern Conference,SAUC,Southern African Indian Ocean Division
+20722,Caucasus Union Mission,CAUU,Euroasia Division
+20750,Kubano-Chernomorskaya Conference,CAUU,Euroasia Division
+10073,North Caucasus Mission,CAUU,Euroasia Division
+20751,Rostov-Kalmykia Conference,CAUU,Euroasia Division
+54621,Cavite Mission,NPUM,Southern Asia Pacific Division
+13437,Central Luzon Conference,NPUM,Southern Asia Pacific Division
+13077,Mountain Provinces Mission,NPUM,Southern Asia Pacific Division
+53850,Northeast Luzon Mission,NPUM,Southern Asia Pacific Division
+13436,Northern Luzon Mission,NPUM,Southern Asia Pacific Division
+13431,North Philippine Union Conference,NPUM,Southern Asia Pacific Division
+20952,Palawan Mission,NPUM,Southern Asia Pacific Division
+13073,South-Central Luzon Conference,NPUM,Southern Asia Pacific Division
+13078,Southern Luzon Mission,NPUM,Southern Asia Pacific Division
+10531,Central Brazil Conference,WCBU,South American Division
+10529,Central Planalto Conference,WCBU,South American Division
+10535,East Mato Grosso Conference,WCBU,South American Division
+10342,South Mato Grosso Conference,WCBU,South American Division
+32161,Tocantins Mission,WCBU,South American Division
+30153,West Central Brazil Union Mission,WCBU,South American Division
+54908,West Mato Grosso Mission,WCBU,South American Division
+10536,Central Brazil Union Conference,CBUC,South American Division
+10528,Central Sao Paulo Conference,CBUC,South American Division
+10537,East Sao Paulo Conference,CBUC,South American Division
+53173,Southeast Sao Paulo Conference,CBUC,South American Division
+10543,Sao Paulo Conference,CBUC,South American Division
+20903,Sao Paulo Valley Conference,CBUC,South American Division
+10530,South Sao Paulo Conference,CBUC,South American Division
+32501,Southwest Sao Paulo Conference,CBUC,South American Division
+10544,West Sao Paulo Conference,CBUC,South American Division
+14113,Central Chiapas Conference,SMUC,Interamerican Division
+53721,Grijalva Conference,SMUC,Interamerican Division
+14116,North Chiapas Conference,SMUC,Interamerican Division
+53910,Palenque Mission,SMUC,Interamerican Division
+32977,South Chiapas Conference,SMUC,Interamerican Division
+14119,Soconusco Conference,SMUC,Interamerican Division
+14112,Chiapas Mexican Union Conference,SMUC,Interamerican Division
+30948,Upper Chiapas Conference,SMUC,Interamerican Division
+31775,West Chiapas Conference,SMUC,Interamerican Division
+14063,Central Dominican Conference,DMUM,Interamerican Division
+14058,Dominican Union Conference,DMUM,Interamerican Division
+14059,East Dominican Conference,DMUM,Interamerican Division
+14060,North Dominican Conference,DMUM,Interamerican Division
+30071,Northeast Dominican Conference,DMUM,Interamerican Division
+14061,South Dominican Conference,DMUM,Interamerican Division
+14062,Southeast Dominican Conference,DMUM,Interamerican Division
+31773,Central Colombian Conference,SOCO,Interamerican Division
+32107,East Los Llanos Conference,SOCO,Interamerican Division
+54045,Northwestern Bogota and Boyaca Mission,SOCO,Interamerican Division
+14035,Pacific Colombian Conference,SOCO,Interamerican Division
+32976,South Bogota Conference,SOCO,Interamerican Division
+30950,South Colombian Conference,SOCO,Interamerican Division
+54044,South Andean Mission,SOCO,Interamerican Division
+31968,South Colombian Union Conference,SOCO,Interamerican Division
+53000,South Pacific Mission,SOCO,Interamerican Division
+14038,Upper Magdalena Conference,SOCO,Interamerican Division
+52315,Central Liberia Mission,WAUM,West Central Africa Division
+29903,Guinea Region,WAUM,West Central Africa Division
+52316,South-East Liberia Mission,WAUM,West Central Africa Division
+13574,Sierra Leone Conference,WAUM,West Central Africa Division
+52317,South-West Liberia Conference,WAUM,West Central Africa Division
+13555,West African Union Mission,WAUM,West Central Africa Division
+31723,Central El Salvador Conference,ELSA,Interamerican Division
+14002,East El Salvador Conference,ELSA,Interamerican Division
+32674,El Salvador Union Mission,ELSA,Interamerican Division
+14010,Metropolitan El Salvador Conference,ELSA,Interamerican Division
+31788,Paracentral El Salvador Conference,ELSA,Interamerican Division
+30949,West El Salvador Conference,ELSA,Interamerican Division
+13632,Central Ethiopia Field,ENET,East-Central Africa Division
+13635,Northwest Ethiopia Field,ENET,East-Central Africa Division
+53922,South Central Ethiopia Field,ENET,East-Central Africa Division
+52598,South East Ethiopia Field,ENET,East-Central Africa Division
+13636,South Ethiopia Field,ENET,East-Central Africa Division
+143059,South Green Ethiopia Field,ENET,East-Central Africa Division
+143060,South Shewa Ethiopia Field,ENET,East-Central Africa Division
+13637,North Ethiopia Field,ENET,East-Central Africa Division
+54660,Central Tanzania Field,STAU,East-Central Africa Division
+13662,East-Central Tanzania Conference,STAU,East-Central Africa Division
+55037,Lake Tanganyika Field,STAU,East-Central Africa Division
+53017,South-East Tanzania Conference,STAU,East-Central Africa Division
+52481,Southern Tanzania Union Mission,STAU,East-Central Africa Division
+13668,Southern Highlands Conference,STAU,East-Central Africa Division
+32984,Central East Venezuela Conference,EVAU,Interamerican Division
+53722,Central Llanos Venezuela Mission,EVAU,Interamerican Division
+14136,Central Venezuela Conference,EVAU,Interamerican Division
+31960,East Venezuela Union Mission,EVAU,Interamerican Division
+14130,East Venezuela Conference,EVAU,Interamerican Division
+53723,Northeast Venezuela Mission,EVAU,Interamerican Division
+21363,South Central Venezuela Conference,EVAU,Interamerican Division
+20209,Southeast Venezuela Conference,EVAU,Interamerican Division
+53063,South Bolivar Venezuela Mission,EVAU,Interamerican Division
+13589,Congo Equatorial Field,WCUM,East-Central Africa Division
+30185,Central Kasai Field,WCUM,East-Central Africa Division
+30186,Lower Congo Field,WCUM,East-Central Africa Division
+13591,West Congo Field,WCUM,East-Central Africa Division
+13593,West Congo Union Mission,WCUM,East-Central Africa Division
+13592,West Kasai Field,WCUM,East-Central Africa Division
+13809,Berlin-Central German Conference,NGUC,Intereuropean Division
+13810,Hanseatic Conference,NGUC,Intereuropean Division
+13807,North German Union Conference,NGUC,Intereuropean Division
+13818,Northern Rhenish-Westfalian Conference,NGUC,Intereuropean Division
+14092,Central Haiti Conference,HAUM,Interamerican Division
+14091,Haitian Union Mission,HAUM,Interamerican Division
+14093,North Haiti Mission,HAUM,Interamerican Division
+14094,Northwest Haiti Mission,HAUM,Interamerican Division
+54043,Plaine du cul de Sac Mission,HAUM,Interamerican Division
+14095,South Haiti Mission,HAUM,Interamerican Division
+10388,China,CHIN,Chinese Union Mission
+30981,Kanchipuram-Chengalpattu Section,SIUS,Southern Asia Division
+12900,Chennai Metro Section,SIUS,Southern Asia Division
+32119,Coimbatore Tirupur Section,SIUS,Southern Asia Division
+32875,Dharmapuri Section,SIUS,Southern Asia Division
+12901,Erode Nilgiris Section,SIUS,Southern Asia Division
+12908,North Tamil Conference,SIUS,Southern Asia Division
+30982,Pudukottai-Thirumayam Region,SIUS,Southern Asia Division
+12916,Sivagangai Ramanathapuram Section,SIUS,Southern Asia Division
+12890,Southeast India Union Section,SIUS,Southern Asia Division
+12915,South Tamil Conference,SIUS,Southern Asia Division
+20954,Thanjavur-Karaikal Section,SIUS,Southern Asia Division
+20953,Theni-Periyakulam Region,SIUS,Southern Asia Division
+32876,Vellore Section,SIUS,Southern Asia Division
+20955,Villupuram-Tindivanam Region,SIUS,Southern Asia Division
+13286,Cook Islands Mission,NZPU,South Pacific Division
+13288,French Polynesia Mission,NZPU,South Pacific Division
+13294,New Caledonia Mission,NZPU,South Pacific Division
+13353,North New Zealand Conference,NZPU,South Pacific Division
+20198,New Zealand Pacific Union Conference,NZPU,South Pacific Division
+13289,Pitcairn Field Station,NZPU,South Pacific Division
+13355,South New Zealand Conference,NZPU,South Pacific Division
+29901,Central Java Mission,WIUM,Southern Asia Pacific Division
+13125,Central Sumatra Mission,WIUM,Southern Asia Pacific Division
+13127,East Java Conference,WIUM,Southern Asia Pacific Division
+20210,East Kalimantan Mission,WIUM,Southern Asia Pacific Division
+13132,Jakarta Conference,WIUM,Southern Asia Pacific Division
+13133,North Sumatra Mission,WIUM,Southern Asia Pacific Division
+13134,Nusa Tenggara Mission,WIUM,Southern Asia Pacific Division
+13135,South Sumatra Mission,WIUM,Southern Asia Pacific Division
+13131,West Indonesia Union Mission,WIUM,Southern Asia Pacific Division
+13137,West Java Conference,WIUM,Southern Asia Pacific Division
+20211,West Kalimantan Region,WIUM,Southern Asia Pacific Division
+14154,Central Jamaica Conference,WIUC,Interamerican Division
+14157,East Jamaica Conference,WIUC,Interamerican Division
+32489,North East Jamaica Conference,WIUC,Interamerican Division
+21366,North Jamaica Conference,WIUC,Interamerican Division
+14141,Jamaica Union Conference,WIUC,Interamerican Division
+14160,West Jamaica Conference,WIUC,Interamerican Division
+13479,Central Kivu Field,NECO,East-Central Africa Division
+42588,Kibali Ituri Mission,NECO,East-Central Africa Division
+31612,Maniema Mission,NECO,East-Central Africa Division
+22108,North East Congo Union Mission,NECO,East-Central Africa Division
+13482,North Kivu Field,NECO,East-Central Africa Division
+13484,South Kivu Field,NECO,East-Central Africa Division
+13485,Upper Congo Field,NECO,East-Central Africa Division
+13614,Central Kenya Conference,EAKU,East-Central Africa Division
+52600,Central Rift Valley Conference,EAKU,East-Central Africa Division
+52478,East Kenya Union Conference,EAKU,East-Central Africa Division
+143006,East Nairobi Field,EAKU,East-Central Africa Division
+13616,Kenya Coast Field,EAKU,East-Central Africa Division
+143007,North East Kenya Field,EAKU,East-Central Africa Division
+13622,Nyamira Conference,EAKU,East-Central Africa Division
+143009,Nyamira West Field,EAKU,East-Central Africa Division
+54657,South-East Kenya Field,EAKU,East-Central Africa Division
+13621,South Kenya Conference,EAKU,East-Central Africa Division
+143008,South Nairobi Kajiado Field,EAKU,East-Central Africa Division
+143010,South Rift Valley Field,EAKU,East-Central Africa Division
+13089,Cambodia Mission,SEAUM,Southern Asia Pacific Division
+13090,Laos Region,SEAUM,Southern Asia Pacific Division
+13088,Southeastern Asia Union Mission,SEAUM,Southern Asia Pacific Division
+13095,Thailand Mission,SEAUM,Southern Asia Pacific Division
+13096,Vietnam Mission,SEAUM,Southern Asia Pacific Division
+54622,Central Mindanao Mission,SPUC,Southern Asia Pacific Division
+13123,North Central Mindanao Conference,SPUC,Southern Asia Pacific Division
+13106,Southwestern Philippine Union Conference,SPUC,Southern Asia Pacific Division
+30246,Zamboanga Peninsula Mission,SPUC,Southern Asia Pacific Division
+13115,Western Mindanao Conference,SPUC,Southern Asia Pacific Division
+13469,Central Malagasy Conference,IOUM,Southern African Indian Ocean Division
+54235,East Malagasy Conference,IOUM,Southern African Indian Ocean Division
+13465,Indian Ocean Union Conference,IOUM,Southern African Indian Ocean Division
+53791,Mayotte Field Station,IOUM,Southern African Indian Ocean Division
+13472,Mauritius Conference,IOUM,Southern African Indian Ocean Division
+29823,North Malagasy Conference,IOUM,Southern African Indian Ocean Division
+29964,North West Malagasy Conference,IOUM,Southern African Indian Ocean Division
+13471,Reunion Conference,IOUM,Southern African Indian Ocean Division
+13473,Seychelles Mission,IOUM,Southern African Indian Ocean Division
+13474,South East Malagasy Conference,IOUM,Southern African Indian Ocean Division
+54413,South West Malagasy Conference,IOUM,Southern African Indian Ocean Division
+13651,Central Malawi Conference,MWUM,Southern African Indian Ocean Division
+13649,Malawi Union Conference,MWUM,Southern African Indian Ocean Division
+13652,North Malawi Conference,MWUM,Southern African Indian Ocean Division
+13653,South Malawi Conference,MWUM,Southern African Indian Ocean Division
+10595,Central Minas Conference,EBUC,South American Division
+10577,Southeast Brazil Union Conference,EBUC,South American Division
+20205,East Minas Conference,EBUC,South American Division
+10598,Espirito Santo Conference,EBUC,South American Division
+52431,North Minas Mission,EBUC,South American Division
+10599,Rio de Janeiro Conference,EBUC,South American Division
+22026,Rio Fluminense Conference,EBUC,South American Division
+10600,South Minas Conference,EBUC,South American Division
+32156,South Espirito Santo Conference,EBUC,South American Division
+10601,South Rio Conference,EBUC,South American Division
+54909,West Minas Mission,EBUC,South American Division
+13800,Central Mission,MZUM,Southern African Indian Ocean Division
+13798,Mozambique Union Mission,MZUM,Southern African Indian Ocean Division
+30588,North-East Mission,MZUM,Southern African Indian Ocean Division
+13801,North Mission,MZUM,Southern African Indian Ocean Division
+13802,South Mission,MZUM,Southern African Indian Ocean Division
+13615,Central Nyanza Conference,WKEU,East-Central Africa Division
+13617,Kenya Lake Conference,WKEU,East-Central Africa Division
+54390,Lake Victoria Field,WKEU,East-Central Africa Division
+154442,North Rift Valley Field,WKEU,East-Central Africa Division
+53182,Western Kenya Conference,WKEU,East-Central Africa Division
+13618,Ranen Conference,WKEU,East-Central Africa Division
+156572,South East Nyanza Field,WKEU,East-Central Africa Division
+156570,Southern Kenya Lake Field,WKEU,East-Central Africa Division
+156573,South West Nyanza Field,WKEU,East-Central Africa Division
+52479,West Kenya Union Conference,WKEU,East-Central Africa Division
+13623,Greater Rift Valley Conference,WKEU,East-Central Africa Division
+154441,West Rift Valley Field,WKEU,East-Central Africa Division
+32502,Central Parana Conference,SBUC,South American Division
+31508,Central Rio Grande do Sul Conference,SBUC,South American Division
+51816,North Santa Catarina Conference,SBUC,South American Division
+10329,North Parana Conference,SBUC,South American Division
+10326,Rio Grande do Sul Conference,SBUC,South American Division
+10328,South Brazil Union Conference,SBUC,South American Division
+10340,Santa Catarina Conference,SBUC,South American Division
+10343,South Parana Conference,SBUC,South American Division
+52118,West Parana Conference,SBUC,South American Division
+10341,North Rio Grande do Sul Conference,SBUC,South American Division
+13384,Central Philippine Union Conference,CPUC,Southern Asia Pacific Division
+13386,Central Visayan Conference,CPUC,Southern Asia Pacific Division
+13395,East Visayan Conference,CPUC,Southern Asia Pacific Division
+13390,Negros Occidental Conference,CPUC,Southern Asia Pacific Division
+13391,Negros Oriental-Siquijor Mission,CPUC,Southern Asia Pacific Division
+20951,Romblon Mission,CPUC,Southern Asia Pacific Division
+54620,Samar Mission,CPUC,Southern Asia Pacific Division
+13393,West Visayan Conference,CPUC,Southern Asia Pacific Division
+12648,Carolina Conference,NSUC,North American Division
+12801,Florida Conference,NSUC,North American Division
+12118,Georgia-Cumberland Conference,NSUC,North American Division
+12327,Gulf States Conference,NSUC,North American Division
+11959,Kentucky-Tennessee Conference,NSUC,North American Division
+12629,Southern Union Conference,NSUC,North American Division
+12093,South Atlantic Conference,NSUC,North American Division
+11754,South Central Conference,NSUC,North American Division
+11425,Southeastern Conference,NSUC,North American Division
+13961,Caribbean Union Conference,CRUC,Interamerican Division
+13963,East Caribbean Conference,CRUC,Interamerican Division
+13958,Grenada Conference,CRUC,Interamerican Division
+13959,Guyana Conference,CRUC,Interamerican Division
+13962,North Caribbean Conference,CRUC,Interamerican Division
+13968,South Caribbean Conference,CRUC,Interamerican Division
+32974,South Leeward Conference,CRUC,Interamerican Division
+13970,St. Lucia Mission,CRUC,Interamerican Division
+52731,St. Vincent and the Grenadines Mission,CRUC,Interamerican Division
+13971,Suriname Mission,CRUC,Interamerican Division
+29897,Tobago Conference,CRUC,Interamerican Division
+13512,Central Rwanda Field,RWUM,East-Central Africa Division
+13511,East Central Rwanda Field,RWUM,East-Central Africa Division
+54404,North-East Rwanda Field,RWUM,East-Central Africa Division
+13513,North Rwanda Field,RWUM,East-Central Africa Division
+42562,North-West Rwanda Field,RWUM,East-Central Africa Division
+13510,Rwanda Union Mission,RWUM,East-Central Africa Division
+54405,South-East Rwanda Field,RWUM,East-Central Africa Division
+13514,South Rwanda Field,RWUM,East-Central Africa Division
+13515,West Rwanda Field,RWUM,East-Central Africa Division
+20752,Central Siberian Mission,ERUM,Euroasia Division
+10046,East Russian Union Mission,ERUM,Euroasia Division
+30375,East Siberian Mission,ERUM,Euroasia Division
+10049,West Siberian Mission,ERUM,Euroasia Division
+16872,Central States Conference,MAUC,North American Division
+16922,Dakota Conference,MAUC,North American Division
+17006,Iowa-Missouri Conference,MAUC,North American Division
+17170,Kansas-Nebraska Conference,MAUC,North American Division
+16854,Mid-America Union Conference,MAUC,North American Division
+17320,Minnesota Conference,MAUC,North American Division
+17405,Rocky Mountain Conference,MAUC,North American Division
+14042,Central Conference,CUUC,Interamerican Division
+14043,East Conference,CUUC,Interamerican Division
+14041,Cuban Union Conference,CUUC,Interamerican Division
+14044,West Conference,CUUC,Interamerican Division
+32487,Del Amanecer Conference,CUUC,Interamerican Division
+54694,Pinarena Mission,CUUC,Interamerican Division
+143058,Villa Perla Mission,CUUC,Interamerican Division
+13675,Central Uganda Conference,UGUM,East-Central Africa Division
+13676,Eastern Uganda Field,UGUM,East-Central Africa Division
+144001,North Buganda Field,UGUM,East-Central Africa Division
+13677,Northern Uganda Field,UGUM,East-Central Africa Division
+13678,Rwenzori Field,UGUM,East-Central Africa Division
+42584,Southwestern Uganda Field,UGUM,East-Central Africa Division
+13673,Uganda Union Mission,UGUM,East-Central Africa Division
+144002,West Buganda Field,UGUM,East-Central Africa Division
+13679,Western Uganda Field,UGUM,East-Central Africa Division
+10064,Central Ukrainian Conference,CUKC,
+13548,Cabo Verde Conference,WESA,West Central Africa Division
+13575,Gambia Region,WESA,West Central Africa Division
+13549,Guinea-Bissau Mission,WESA,West Central Africa Division
+13550,Mali Mission,WESA,West Central Africa Division
+13552,Senegal/Mauritania Mission,WESA,West Central Africa Division
+52485,Western Sahel Union Mission,WESA,West Central Africa Division
+12856,Cyprus Region,TEDAF,Transeuropean Division
+12884,Greek Mission,TEDAF,Transeuropean Division
+12886,Iceland Conference,TEDAF,Transeuropean Division
+13700,Midlands East Zambia Conference,NZAM,Southern African Indian Ocean Division
+13701,Copperbelt Zambia Conference,NZAM,Southern African Indian Ocean Division
+31596,Luapula Zambia Conference,NZAM,Southern African Indian Ocean Division
+54579,Midlands West Zambia Conference,NZAM,Southern African Indian Ocean Division
+55044,Northwest Zambia Conference,NZAM,Southern African Indian Ocean Division
+13699,North Zambia Field,NZAM,Southern African Indian Ocean Division
+53174,Northern Zambia Union Conference,NZAM,Southern African Indian Ocean Division
+13690,Central Zimbabwe Conference,ZIMC,Southern African Indian Ocean Division
+53021,North-West Zimbabwe Conference,ZIMC,Southern African Indian Ocean Division
+54215,Zimbabwe Central Union Conference,ZIMC,Southern African Indian Ocean Division
+54225,Zimbabwe West Union Conference,ZIMC,Southern African Indian Ocean Division
+13108,Davao Mission,SEPH,Southern Asia Pacific Division
+13109,Northeastern Mindanao Mission,SEPH,Southern Asia Pacific Division
+143062,Northern Davao Mission,SEPH,Southern Asia Pacific Division
+13113,Southern Mindanao Mission,SEPH,Southern Asia Pacific Division
+52304,Delta Conference,NGUM,West Central Africa Division
+13499,Edo Conference,NGUM,West Central Africa Division
+52305,Ekiti Conference,NGUM,West Central Africa Division
+52363,Kogi Region,NGUM,West Central Africa Division
+52308,Kwara Conference,NGUM,West Central Africa Division
+52309,Lagos Atlantic Conference,NGUM,West Central Africa Division
+52306,Lagos Mainland Conference,NGUM,West Central Africa Division
+13492,Western Nigeria Union Conference,NGUM,West Central Africa Division
+52307,Ogun Conference,NGUM,West Central Africa Division
+52310,Osun Conference,NGUM,West Central Africa Division
+13505,Ondo Mission,NGUM,West Central Africa Division
+13504,Oyo Conference,NGUM,West Central Africa Division
+54210,Diamond Field Ghana Conference,GHUC,West Central Africa Division
+13530,East Ghana Conference,GHUC,West Central Africa Division
+54211,Eastern View Ghana Conference,GHUC,West Central Africa Division
+13528,Southern Ghana Union Conference,GHUC,West Central Africa Division
+54206,Meridian Ghana Conference,GHUC,West Central Africa Division
+53028,Mid-South Ghana Conference,GHUC,West Central Africa Division
+54212,Pioneer Ghana Conference,GHUC,West Central Africa Division
+13535,Accra City Conference,GHUC,West Central Africa Division
+13534,South West Ghana Conference,GHUC,West Central Africa Division
+54208,Oti Ghana Mission,GHUC,West Central Africa Division
+54209,Volta Ghana Mission,GHUC,West Central Africa Division
+54213,West-Central Ghana Conference,GHUC,West Central Africa Division
+54214,Western North Ghana Conference,GHUC,West Central Africa Division
+10065,Dnieper Conference,DNPC,
+13070,Duna Conference,HUNC,Transeuropean Division
+13069,Hungarian Union Conference,HUNC,Transeuropean Division
+13071,Tisza Conference,HUNC,Transeuropean Division
+13044,Danish Union of Churches Conference,DUOC,Transeuropean Division
+20201,Ecuador Union Mission,ECDU,South American Division
+10332,North Ecuador Mission,ECDU,South American Division
+10333,South Ecuador Mission,ECDU,South American Division
+10166,East Central Korean Conference,KRUC,Northern Asia Pacific Division
+32140,Jeju Mission,KRUC,Northern Asia Pacific Division
+10435,Korean Union Conference,KRUC,Northern Asia Pacific Division
+10164,Middlewest Korean Conference,KRUC,Northern Asia Pacific Division
+10167,North Korean Mission,KRUC,Northern Asia Pacific Division
+10169,Southeast Korean Conference,KRUC,Northern Asia Pacific Division
+10171,Southwest Korean Conference,KRUC,Northern Asia Pacific Division
+10173,West Central Korean Conference,KRUC,Northern Asia Pacific Division
+13481,East Congo Union Mission,ECUM,East-Central Africa Division
+31611,East Katanga Mission,ECUM,East-Central Africa Division
+13590,East Kasai Field,ECUM,East-Central Africa Division
+13480,North Katanga Field,ECUM,East-Central Africa Division
+13483,South Katanga Field,ECUM,East-Central Africa Division
+42589,West Katanga Field,ECUM,East-Central Africa Division
+10067,Eastern Dnieper Conference,EDNC,
+12858,Egypt-Sudan Field,EGYF,
+10425,East Japan Conference,JPUC,Northern Asia Pacific Division
+10408,Japan Union Conference,JPUC,Northern Asia Pacific Division
+10426,Okinawa Mission,JPUC,Northern Asia Pacific Division
+10427,West Japan Conference,JPUC,Northern Asia Pacific Division
+12857,East Mediterranean Region,EMDF,
+12824,East Norway Conference,NRUC,Transeuropean Division
+12825,North Norway Conference,NRUC,Transeuropean Division
+12823,Norwegian Union Conference,NRUC,Transeuropean Division
+12826,West Norway Conference,NRUC,Transeuropean Division
+12841,East Polish Conference,POUC,Transeuropean Division
+12839,Polish Union Conference,POUC,Transeuropean Division
+12843,South Polish Conference,POUC,Transeuropean Division
+12844,West Polish Conference,POUC,Transeuropean Division
+13934,East Puerto Rico Conference,PRUC,Interamerican Division
+20207,North Puerto Rico Conference,PRUC,Interamerican Division
+13918,Puerto Rican Union Conference,PRUC,Interamerican Division
+20208,South Puerto Rico Conference,PRUC,Interamerican Division
+13936,West Puerto Rico Conference,PRUC,Interamerican Division
+13707,Eritrea Mission Field,ECDAF,East-Central Africa Division
+31551,Euro-Asia Division (Branch),ESDB,Euroasia Division
+10054,Southern Union Mission,ESUC,Euroasia Division
+21990,Kyrgyzstan Mission,ESUC,Euroasia Division
+10057,Kazakhstan Mission,ESUC,Euroasia Division
+21991,Tajikistan Field,ESUC,Euroasia Division
+21992,Turkmenistan Field,ESUC,Euroasia Division
+21993,Uzbekistan Field,ESUC,Euroasia Division
+32142,Timor-Leste Mission,SSDAF,Southern Asia Pacific Division
+13702,East Zambia Field,SZAM,Southern African Indian Ocean Division
+52475,Lusaka Conference,SZAM,Southern African Indian Ocean Division
+179299,Mosi O Tunya Conference,SZAM,Southern African Indian Ocean Division
+13703,Rusangu Conference,SZAM,Southern African Indian Ocean Division
+53175,Southern Zambia Union Conference,SZAM,Southern African Indian Ocean Division
+54570,Woodlands Conference,SZAM,Southern African Indian Ocean Division
+13704,West Zambia Conference,SZAM,Southern African Indian Ocean Division
+13691,East Zimbabwe Conference,ZAUM,Southern African Indian Ocean Division
+14077,French Antilles-Guiana Union Conference,FAGUM,Interamerican Division
+14087,French Guiana Mission,FAGUM,Interamerican Division
+14088,Guadeloupe Conference,FAGUM,Interamerican Division
+14078,Martinique Conference,FAGUM,Interamerican Division
+10048,Far Eastern Union of Churches Mission,FEC,Euroasia Division
+13857,French-Italian Swiss Conference,SWSC,Intereuropean Division
+13856,German Swiss Conference,SWSC,Intereuropean Division
+13849,Swiss Union Conference,SWSC,Intereuropean Division
+13056,Finland Union of Churches Conference,FNUC,Transeuropean Division
+54423,Gambella Field Station,WNET,East-Central Africa Division
+156944,Kellem Ethiopia Field,WNET,East-Central Africa Division
+52599,South West Ethiopia Field,WNET,East-Central Africa Division
+53923,West Central Ethiopia Field,WNET,East-Central Africa Division
+13638,West Ethiopia Conference,WNET,East-Central Africa Division
+13199,Gujarat Conference,WIND,Southern Asia Division
+13200,Central Maharashtra Conference,WIND,Southern Asia Division
+12925,Mumbai Metro Section,WIND,Southern Asia Division
+13204,North Maharashtra Section,WIND,Southern Asia Division
+30063,Saurashtra Region,WIND,Southern Asia Division
+30064,South Maharashtra Section,WIND,Southern Asia Division
+31796,South Gujarat Region,WIND,Southern Asia Division
+20221,Vidarbha Region (Nagpur),WIND,Southern Asia Division
+20214,Western India Union Section,WIND,Southern Asia Division
+13151,Guam-Micronesia Mission,GUMM,North American Division
+20950,Gulf Field,GUSS,
+10394,Hong Kong-Macao Conference,HKMC,Chinese Union Mission
+16156,Illinois Conference,LKUC,North American Division
+16294,Indiana Conference,LKUC,North American Division
+16392,Lake Region Conference,LKUC,North American Division
+16144,Lake Union Conference,LKUC,North American Division
+16502,Michigan Conference,LKUC,North American Division
+16736,Wisconsin Conference,LKUC,North American Division
+13794,Italian Union of Churches Conference,IUOC,Intereuropean Division
+20889,Kyiv Conference,KIEV,
+10642,North Para Conference,NBUM,South American Division
+10644,Maranhao Conference,NBUM,South American Division
+10634,North Brazil Union Mission,NBUM,South American Division
+54601,Northeast Maranhao Mission,NBUM,South American Division
+53656,Para-Amapa Mission,NBUM,South American Division
+30988,South Maranhao Conference,NBUM,South American Division
+20905,South Para Conference,NBUM,South American Division
+32158,West Para Mission,NBUM,South American Division
+12871,Macedonian Mission,SEEUC,Transeuropean Division
+12872,North Conference,SEEUC,Transeuropean Division
+12873,South Conference,SEEUC,Transeuropean Division
+12874,Bosnia and Herzegovina Conference,SEEUC,Transeuropean Division
+12870,South-East European Union Conference,SEEUC,Transeuropean Division
+20204,North Africa Region,MAGS,
+13664,Mara Conference,NTAU,East-Central Africa Division
+13663,North-East Tanzania Conference,NTAU,East-Central Africa Division
+52480,Northern Tanzania Union Conference,NTAU,East-Central Africa Division
+55039,Nyanza Gold Belt Field,NTAU,East-Central Africa Division
+13665,South Nyanza Conference,NTAU,East-Central Africa Division
+55038,Tanzania Rift Valley Field,NTAU,East-Central Africa Division
+13667,Western Tanzania Conference,NTAU,East-Central Africa Division
+13261,Mongolia Mission,NSDAF,Northern Asia Pacific Division
+10050,Moldova Union of Churches Conference,MOUC,Euroasia Division
+21994,Moscow Conference,WRUC,Euroasia Division
+10074,Northwestern Conference,WRUC,Euroasia Division
+10076,Ural Conference,WRUC,Euroasia Division
+10077,Volga Conference,WRUC,Euroasia Division
+10078,Volgo-Vyatskaya Conference,WRUC,Euroasia Division
+10072,Central Conference,WRUC,Euroasia Division
+10075,Southern Conference,WRUC,Euroasia Division
+10071,West Russian Union Conference,WRUC,Euroasia Division
+52364,North Central Nigeria Conference,NONI,West Central Africa Division
+13500,North East Nigeria Conference,NONI,West Central Africa Division
+52484,Northern Nigeria Union Conference,NONI,West Central Africa Division
+13501,North West Nigeria Conference,NONI,West Central Africa Division
+10280,East Central Peru Conference,NPEU,South American Division
+22033,Northeast Peru Mission,NPEU,South American Division
+20206,North Pacific Conference,NPEU,South American Division
+30989,North Peru Union Mission,NPEU,South American Division
+10281,North Peru Mission,NPEU,South American Division
+33609,West Central Peru Mission,NPEU,South American Division
+12817,Netherlands Union of Churches Conference,NEUC,Transeuropean Division
+53022,North Zimbabwe Conference,ZIME,Southern African Indian Ocean Division
+54216,Zimbabwe East Union Conference,ZIME,Southern African Indian Ocean Division
+32184,Paraguay Union of Churches Mission,PARU,South American Division
+12834,Northern Section,PKUS,Northern Asia Pacific Division
+12835,Southern Section,PKUS,Northern Asia Pacific Division
+12831,Pakistan Union Section,PKUS,Northern Asia Pacific Division
+13091,Peninsular Malaysia Mission,MALU,Southern Asia Pacific Division
+13099,Sabah Mission,MALU,Southern Asia Pacific Division
+13098,Sarawak Mission,MALU,Southern Asia Pacific Division
+10068,Podolsk Conference,PODC,
+13823,Portuguese Union of Churches Conference,PUOC,Intereuropean Division
+13762,Sao Tome and Principe Mission,SIDAF,Southern African Indian Ocean Division
+10069,Southern Ukrainian Conference,SUKC,
+13866,Spanish Union of Churches Conference,SUOC,Intereuropean Division
+12866,Swedish Union of Churches Conference,SWDC,Transeuropean Division
+53023,South Zimbabwe Conference,ZIMW,Southern African Indian Ocean Division
+13692,West Zimbabwe Conference,ZIMW,Southern African Indian Ocean Division
+13861,West Asia Field,TRKS,
+32185,Uruguay Union of Churches Mission,URUU,South American Division
+10070,Western Ukrainian Conference,WUKC,
