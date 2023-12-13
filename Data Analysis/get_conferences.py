@@ -5,7 +5,7 @@ from collections import defaultdict
 import logging as log
 from DATA import api_url, union_dict
 
-CSV_FILE_PATH = "conference.csv"
+CSV_FILE_PATH = "Data/conference.csv"
 FIELDNAMES = ['id', 'union_id', 'name']
 
 
