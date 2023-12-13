@@ -1,3 +1,5 @@
+"""get_conferences.py"""
+
 import csv
 import json
 import requests
