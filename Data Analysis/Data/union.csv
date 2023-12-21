@@ -11,7 +11,7 @@ id,division_id,name
 9,0,West Congo Union Mission
 10,0,West Kenya Union Conference
 11,0,Western Ethiopia Union Mission
-12,0,South Sudan Attached Territory
+12,0,South Sudan Union Mission
 13,0,Eritea Mission Field
 14,1,Belarus Union of Churches
 15,1,Caucasus Union Mission
@@ -111,17 +111,17 @@ id,division_id,name
 109,9,Western India Section
 110,9,Andaman and Nicobar Island Region
 111,9,East Himalayan Field
-112,10,Bangladesh Union
+112,5,Bangladesh Union
 113,10,Central Philippines Union
 114,10,East Indonesia Union
 115,10,Malasya Union
 116,10,Myanmar Union
 117,10,North Philippine Union
-118,10,Pakistan Union Section
+118,5,Pakistan Union Section
 119,10,South Philippine Section
 120,10,Southeastern Asia Union
 121,10,West Indonesia Union
-122,10,Sri Lanka Mission
+122,5,Sri Lanka Mission
 123,10,Timor Leste Mission
 124,10,Singapore Conference
 125,11,Adriatic Union

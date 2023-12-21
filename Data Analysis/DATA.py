@@ -1,4 +1,49 @@
-api_url = "https://orgmast.adventist.org/OrgMastAPI/api/OMAdmfield?$filter=Active%20eq%20true"
+api_url = (
+    "https://orgmast.adventist.org/OrgMastAPI/api/OMAdmfield?$filter=Active%20eq%20true"
+)
+
+# Dictionary of question categories with ids
+question_categories = {
+    "Mission & Discipleship": [1, 2, 3, 4],
+    "Action F/U & Comm.": [29, 30, 31, 32, 33, 34],
+    "Statistical Report": [55, 56, 57, 58],
+    "Credentials & Licences": [78, 79, 80, 81, 82, 83, 84, 85],
+    "Committees & Sessions": [5, 6, 7, 8, 9, 10],
+    "Sessions & Assemblies": [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+    "Yearbook": [59, 60, 61, 62],
+    "Call Processing": [87, 88, 89, 90],
+    "Office Facilities": None,
+    "Minutes": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+    ],
+    "References & Manuals": [46, 47, 48, 49, 50, 51, 52, 53, 54],
+    "Personnel Data": [63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77],
+    "Working & Mailing Lists": [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102],
+}
+
 
 division_dict = {
     0: ("East-Central Africa Division", "ECD"),
