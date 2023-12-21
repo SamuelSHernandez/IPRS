@@ -3,7 +3,7 @@ import logging as log
 from collections import defaultdict
 
 import requests
-from DATA import api_url, union_dict
+from Data.DATA import gc_api_url, union_dict
 
 CSV_FILE_PATH = "Data/conference.csv"
 CONFERENCE_FIELDNAMES = ["id", "union_id", "name"]
@@ -128,7 +128,7 @@ def main():
     """
     log.basicConfig(level=log.INFO)
     conference_manager = ConferenceDataManager(ApiFetcher(), CsvExporter())
-    conference_data = conference_manager.get_data(api_url)
+    conference_data = conference_manager.get_data(gc_api_url)
     conference_manager.process_data(conference_data, CSV_FILE_PATH)
 
 
