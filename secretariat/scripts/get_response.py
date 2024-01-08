@@ -51,5 +51,16 @@ def get_response():
     except Exception as e:
         logging.error(f"An unexpected error occurred: {str(e)}")
         return pd.DataFrame()  # Return an empty DataFrame in case of unexpected error
-
+    
 survey_data = get_response()
+
+# Check if the DataFrame is not empty before exporting to CSV
+if not survey_data.empty:
+    # Define the path where you want to save the CSV file
+    csv_file_path = "data_analysis/survey_responses.csv"
+    
+    # Export the DataFrame to CSV
+    survey_data.to_csv(csv_file_path, index=False)
+    print(f"Survey responses exported to {csv_file_path}")
+else:
+    print("No survey responses to export.")
