@@ -1,7 +1,6 @@
 import unittest
 from unittest.mock import patch, MagicMock, call
 import pandas as pd
-import matplotlib.pyplot as plt
 from plot_true_false_distribution import plot_true_false_distribution
 
 class TestPlotTrueFalseDistribution(unittest.TestCase):
